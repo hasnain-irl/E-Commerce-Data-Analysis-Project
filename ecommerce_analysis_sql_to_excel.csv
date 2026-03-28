@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,customer_name,city,product_name,category,quantity,price,total_revenue,payment_method
+20,2022-09-24,21,NULL,Esso,"Italian Pasta","Food - Grains",12,2,24,jcb
+40,NULL,41,"Helaine O'Dogherty",Beiling,"Italian Pasta","Food - Grains",10,2,20,switch
+60,2022-06-26,61,"Laetitia Dinzey",Waekolong,"Italian Pasta","Food - Grains",7,2,14,china-unionpay
+80,NULL,81,"Herbie Clapperton",Spas’ke,"Italian Pasta","Food - Grains",43,2,86,jcb
+100,2022-12-21,101,"Mylo Swallwell","Pinayagan Norte","Italian Pasta","Food - Grains",0,2,0,mastercard
+120,2022-08-04,121,"Linda Swadlen","Thị Trấn Mỹ Lộc","Italian Pasta","Food - Grains",33,2,66,visa-electron
+140,2022-09-21,141,NULL,Cheongju-si,"Italian Pasta","Food - Grains",30,2,60,mastercard
+160,NULL,161,"Aleen Shillinglaw",Kedungtulup,"Italian Pasta","Food - Grains",14,2,28,jcb
+180,2022-08-30,181,"Dare Sobczak",Catumbela,"Italian Pasta","Food - Grains",35,2,70,jcb
+200,2022-10-09,201,"Tymothy O'Clery",Eldoret,"Italian Pasta","Food - Grains",5,2,10,china-unionpay
+220,2022-10-10,221,"Velvet Tattersill",Kutamangu,"Italian Pasta","Food - Grains",12,2,24,NULL
+240,2022-03-16,241,"Gabrila Lewsie",Göteborg,"Italian Pasta","Food - Grains",42,2,84,mastercard
+260,NULL,261,"Gayle Bosson",Amagi,"Italian Pasta","Food - Grains",38,2,76,jcb
+280,2023-01-28,281,"Gerrard Everiss",Jandir,"Italian Pasta","Food - Grains",4,2,8,jcb
+300,2023-01-11,301,"Derril Chanders",Bualan,"Italian Pasta","Food - Grains",14,2,28,bankcard
+320,2022-06-29,321,"Arny Lowth",Sendang,"Italian Pasta","Food - Grains",6,2,12,china-unionpay
+340,2022-10-26,341,"Jania Landall",Sivaki,"Italian Pasta","Food - Grains",0,2,0,mastercard
+360,2022-11-25,361,"Emlynne Thames","San Pedro","Italian Pasta","Food - Grains",35,2,70,jcb
+380,2022-05-20,381,"Jerri Mariel",Sihai,"Italian Pasta","Food - Grains",22,2,44,diners-club-carte-blanche
+400,2023-02-26,401,NULL,"Las Matas de Santa Cruz","Italian Pasta","Food - Grains",43,2,86,diners-club-carte-blanche
+420,2022-08-04,421,"Otha Cuddehay",Oslo,"Italian Pasta","Food - Grains",26,2,52,bankcard
+440,2022-07-05,441,"Gil Gethen",Werangere,"Italian Pasta","Food - Grains",46,2,92,jcb
+460,2022-09-26,461,"Gerik Stolze",Alimono,"Italian Pasta","Food - Grains",0,2,0,jcb
+480,2023-02-20,481,"Rocky Andrejevic",Qingshuihe,"Italian Pasta","Food - Grains",38,2,76,americanexpress
+500,2023-01-26,1,NULL,Dębno,"Italian Pasta","Food - Grains",20,2,40,jcb
+520,2022-11-01,21,NULL,Esso,"Italian Pasta","Food - Grains",31,2,62,mastercard
+540,2022-12-31,41,"Helaine O'Dogherty",Beiling,"Italian Pasta","Food - Grains",47,2,94,maestro
+560,2022-07-05,61,"Laetitia Dinzey",Waekolong,"Italian Pasta","Food - Grains",38,2,76,jcb
+580,2022-10-02,81,"Herbie Clapperton",Spas’ke,"Italian Pasta","Food - Grains",14,2,28,jcb
+600,2023-02-07,101,"Mylo Swallwell","Pinayagan Norte","Italian Pasta","Food - Grains",19,2,38,jcb
+620,2022-12-22,121,"Linda Swadlen","Thị Trấn Mỹ Lộc","Italian Pasta","Food - Grains",0,2,0,jcb
+640,2022-09-22,141,NULL,Cheongju-si,"Italian Pasta","Food - Grains",38,2,76,jcb
+660,2022-04-05,161,"Aleen Shillinglaw",Kedungtulup,"Italian Pasta","Food - Grains",12,2,24,jcb
+680,2022-06-29,181,"Dare Sobczak",Catumbela,"Italian Pasta","Food - Grains",35,2,70,maestro
+700,2022-10-14,201,"Tymothy O'Clery",Eldoret,"Italian Pasta","Food - Grains",16,2,32,solo
+720,2022-08-15,221,"Velvet Tattersill",Kutamangu,"Italian Pasta","Food - Grains",35,2,70,jcb
+740,2022-06-27,241,"Gabrila Lewsie",Göteborg,"Italian Pasta","Food - Grains",25,2,50,diners-club-carte-blanche
+760,2022-08-31,261,"Gayle Bosson",Amagi,"Italian Pasta","Food - Grains",28,2,56,jcb
+780,2022-05-28,281,"Gerrard Everiss",Jandir,"Italian Pasta","Food - Grains",39,2,78,diners-club-carte-blanche
+800,2022-09-09,301,"Derril Chanders",Bualan,"Italian Pasta","Food - Grains",33,2,66,americanexpress
+820,2022-06-04,321,"Arny Lowth",Sendang,"Italian Pasta","Food - Grains",40,2,80,switch
+840,2023-01-22,341,"Jania Landall",Sivaki,"Italian Pasta","Food - Grains",14,2,28,mastercard
+860,2022-07-24,361,"Emlynne Thames","San Pedro","Italian Pasta","Food - Grains",48,2,96,mastercard
+880,2022-07-22,381,"Jerri Mariel",Sihai,"Italian Pasta","Food - Grains",1,2,2,jcb
+900,2022-05-20,401,NULL,"Las Matas de Santa Cruz","Italian Pasta","Food - Grains",29,2,58,diners-club-enroute
+920,2022-04-09,421,"Otha Cuddehay",Oslo,"Italian Pasta","Food - Grains",34,2,68,switch
+940,2022-04-22,441,"Gil Gethen",Werangere,"Italian Pasta","Food - Grains",27,2,54,mastercard
+960,2022-12-05,461,"Gerik Stolze",Alimono,"Italian Pasta","Food - Grains",7,2,14,jcb
+980,NULL,481,"Rocky Andrejevic",Qingshuihe,"Italian Pasta","Food - Grains",11,2,22,jcb
+1000,2022-09-12,1,NULL,Dębno,"Italian Pasta","Food - Grains",0,2,0,switch
+1,2022-08-16,2,"Travus Oldknow","La Palma","Electric Can Opener",Kitchen,23,30,690,switch
+21,2022-12-15,22,"Kass Punchard",Pecatu,"Electric Can Opener",Kitchen,8,30,240,jcb
+41,2022-10-24,42,"Norby Shucksmith",Formosa,"Electric Can Opener",Kitchen,21,30,630,NULL
+61,2022-04-30,62,"Hirsch Carnachen",Saint-Brieuc,"Electric Can Opener",Kitchen,30,30,900,visa-electron
+81,2022-07-14,82,"Franchot Hartell",Aquiraz,"Electric Can Opener",Kitchen,23,30,690,jcb
+101,2022-10-01,102,"Dorelia Hawthorne",Kalej,"Electric Can Opener",Kitchen,14,30,420,diners-club-carte-blanche
+121,2022-09-25,122,"Iorgos Wigan",Abut,"Electric Can Opener",Kitchen,26,30,780,china-unionpay
+141,2023-02-23,142,"Roxane Neames",Manonjaya,"Electric Can Opener",Kitchen,1,30,30,NULL
+161,2022-11-19,162,"Xenos Handley",Diriomo,"Electric Can Opener",Kitchen,36,30,1080,jcb
+181,2022-12-14,182,"Carie Stronghill",Ibara,"Electric Can Opener",Kitchen,16,30,480,jcb
+201,2022-10-14,202,"Giacomo Borland",Jieting,"Electric Can Opener",Kitchen,8,30,240,mastercard
+221,2022-04-17,222,"Bernadette Hambrook",Stykkishólmur,"Electric Can Opener",Kitchen,38,30,1140,jcb
+241,2022-06-10,242,"Tricia Barbisch",Kandava,"Electric Can Opener",Kitchen,25,30,750,jcb
+261,2022-12-16,262,"Margy Kiwitz",Miaoshou,"Electric Can Opener",Kitchen,12,30,360,visa-electron
+281,2022-09-01,282,"Kenon MacRonald",Badung,"Electric Can Opener",Kitchen,33,30,990,china-unionpay
+301,2023-03-03,302,"Maurine Van Leeuwen",Mirecourt,"Electric Can Opener",Kitchen,40,30,1200,jcb
+321,2022-10-25,322,"Hillary Cattonnet","Batur Kidul","Electric Can Opener",Kitchen,19,30,570,jcb
+341,2022-05-21,342,"Winn Balog",Leuburi,"Electric Can Opener",Kitchen,0,30,0,jcb
+361,2023-03-02,362,"Madelena Logsdail",Dārayyā,"Electric Can Opener",Kitchen,36,30,1080,americanexpress
+381,2022-05-17,382,"Brana Brokenshaw",Liangjing,"Electric Can Opener",Kitchen,7,30,210,mastercard
+401,2022-12-19,402,"Camila Van der Hoven",Cimongkor,"Electric Can Opener",Kitchen,20,30,600,laser
+421,2022-12-18,422,"Vanny Chippin",Anyuan,"Electric Can Opener",Kitchen,50,30,1500,jcb
+441,2023-03-06,442,"Julia Kittredge",Zhitan,"Electric Can Opener",Kitchen,38,30,1140,americanexpress
+461,2022-04-03,462,"Engracia MacLise",Serzedelo,"Electric Can Opener",Kitchen,13,30,390,jcb
+481,2022-08-11,482,"Georgine Jenny",Guarabira,"Electric Can Opener",Kitchen,38,30,1140,maestro
+501,2022-10-13,2,"Travus Oldknow","La Palma","Electric Can Opener",Kitchen,34,30,1020,diners-club-carte-blanche
+521,2022-05-06,22,"Kass Punchard",Pecatu,"Electric Can Opener",Kitchen,5,30,150,jcb
+541,2022-04-05,42,"Norby Shucksmith",Formosa,"Electric Can Opener",Kitchen,7,30,210,diners-club-carte-blanche
+561,2022-04-30,62,"Hirsch Carnachen",Saint-Brieuc,"Electric Can Opener",Kitchen,22,30,660,NULL
+581,2022-09-21,82,"Franchot Hartell",Aquiraz,"Electric Can Opener",Kitchen,34,30,1020,switch
+601,2022-12-13,102,"Dorelia Hawthorne",Kalej,"Electric Can Opener",Kitchen,21,30,630,visa
+621,2023-02-12,122,"Iorgos Wigan",Abut,"Electric Can Opener",Kitchen,25,30,750,visa-electron
+641,2022-09-02,142,"Roxane Neames",Manonjaya,"Electric Can Opener",Kitchen,26,30,780,jcb
+661,2022-05-16,162,"Xenos Handley",Diriomo,"Electric Can Opener",Kitchen,39,30,1170,mastercard
+681,2022-10-23,182,"Carie Stronghill",Ibara,"Electric Can Opener",Kitchen,7,30,210,jcb
+701,2022-07-02,202,"Giacomo Borland",Jieting,"Electric Can Opener",Kitchen,5,30,150,jcb
+721,2022-11-10,222,"Bernadette Hambrook",Stykkishólmur,"Electric Can Opener",Kitchen,7,30,210,jcb
+741,2022-12-24,242,"Tricia Barbisch",Kandava,"Electric Can Opener",Kitchen,13,30,390,jcb
+761,2023-01-26,262,"Margy Kiwitz",Miaoshou,"Electric Can Opener",Kitchen,1,30,30,jcb
+781,2022-06-30,282,"Kenon MacRonald",Badung,"Electric Can Opener",Kitchen,24,30,720,diners-club-carte-blanche
+801,2022-09-23,302,"Maurine Van Leeuwen",Mirecourt,"Electric Can Opener",Kitchen,43,30,1290,jcb
+821,2023-02-14,322,"Hillary Cattonnet","Batur Kidul","Electric Can Opener",Kitchen,10,30,300,NULL
+841,2022-06-29,342,"Winn Balog",Leuburi,"Electric Can Opener",Kitchen,28,30,840,diners-club-us-ca
+861,2022-05-02,362,"Madelena Logsdail",Dārayyā,"Electric Can Opener",Kitchen,33,30,990,jcb
+881,2022-03-31,382,"Brana Brokenshaw",Liangjing,"Electric Can Opener",Kitchen,25,30,750,bankcard
+901,2022-06-01,402,"Camila Van der Hoven",Cimongkor,"Electric Can Opener",Kitchen,33,30,990,jcb
+921,2022-05-02,422,"Vanny Chippin",Anyuan,"Electric Can Opener",Kitchen,2,30,60,laser
+941,2022-10-18,442,"Julia Kittredge",Zhitan,"Electric Can Opener",Kitchen,13,30,390,jcb
+961,2022-09-18,462,"Engracia MacLise",Serzedelo,"Electric Can Opener",Kitchen,0,30,0,diners-club-carte-blanche
+981,2023-03-07,482,"Georgine Jenny",Guarabira,"Electric Can Opener",Kitchen,44,30,1320,diners-club-enroute
+2,2022-04-18,3,"Abby Roundtree",Laborde,"Emergency Preparedness Kit",Safety,6,100,600,diners-club-enroute
+22,2022-10-09,23,"Luisa Lapre",Batudulang,"Emergency Preparedness Kit",Safety,9,100,900,visa-electron
+42,2022-03-29,43,"Skyler Stichel",Lloque,"Emergency Preparedness Kit",Safety,22,100,2200,mastercard
+62,2023-02-16,63,"Lyell Macia",Pengchang,"Emergency Preparedness Kit",Safety,29,100,2900,jcb
+82,NULL,83,"Dorene Derges",Kurovskoye,"Emergency Preparedness Kit",Safety,13,100,1300,diners-club-enroute
+102,2022-07-22,103,"Yehudit Klimmek",Perstorp,"Emergency Preparedness Kit",Safety,18,100,1800,jcb
+122,2022-05-31,123,"Edward Boyes",Wendengying,"Emergency Preparedness Kit",Safety,17,100,1700,mastercard
+142,2022-05-04,143,"Perry Blaszczak",Aveleda,"Emergency Preparedness Kit",Safety,7,100,700,solo
+162,2022-11-24,163,"Curr Howerd",Sandviken,"Emergency Preparedness Kit",Safety,42,100,4200,diners-club-enroute
+182,2022-07-04,183,"Daveta Tottman",Khotynets,"Emergency Preparedness Kit",Safety,0,100,0,jcb
+202,2023-02-09,203,"Kipper Bierman",Noyal-sur-Vilaine,"Emergency Preparedness Kit",Safety,31,100,3100,jcb
+222,2023-03-13,223,"Tristan Ennew",Taipinghu,"Emergency Preparedness Kit",Safety,9,100,900,jcb
+242,2022-08-23,243,"Nissy McLeod",Hal’shany,"Emergency Preparedness Kit",Safety,6,100,600,jcb
+262,2023-02-20,263,"Ines Boxhill",Kybartai,"Emergency Preparedness Kit",Safety,0,100,0,visa
+282,2022-05-18,283,"Merl Peron",Malindi,"Emergency Preparedness Kit",Safety,44,100,4400,americanexpress
+302,2022-08-13,303,"Katharine Hunnaball",Nevers,"Emergency Preparedness Kit",Safety,8,100,800,laser
+322,2022-11-05,323,"Elnore Thacke",Kitchener,"Emergency Preparedness Kit",Safety,28,100,2800,jcb
+342,2022-11-11,343,"Filberte Venditti",Talisay,"Emergency Preparedness Kit",Safety,6,100,600,maestro
+362,NULL,363,"Brander Monteath",Xiaojinkou,"Emergency Preparedness Kit",Safety,32,100,3200,diners-club-enroute
+382,2022-08-21,383,"Nigel Edgler",NULL,"Emergency Preparedness Kit",Safety,23,100,2300,laser
+402,2022-06-30,403,NULL,Gyangkar,"Emergency Preparedness Kit",Safety,32,100,3200,maestro
+422,2022-08-16,423,"Annissa Capron",Doong,"Emergency Preparedness Kit",Safety,26,100,2600,visa
+442,2022-04-15,443,"Cyrille Pretious","Petaling Jaya","Emergency Preparedness Kit",Safety,50,100,5000,jcb
+462,2022-12-11,463,"Odille Timbs","Nowe Miasto nad Pilicą","Emergency Preparedness Kit",Safety,24,100,2400,china-unionpay
+482,2023-02-16,483,"Debi Robinette",Cisagu,"Emergency Preparedness Kit",Safety,32,100,3200,americanexpress
+502,2022-04-06,3,"Abby Roundtree",Laborde,"Emergency Preparedness Kit",Safety,48,100,4800,visa
+522,2022-05-23,23,"Luisa Lapre",Batudulang,"Emergency Preparedness Kit",Safety,29,100,2900,NULL
+542,2022-05-05,43,"Skyler Stichel",Lloque,"Emergency Preparedness Kit",Safety,8,100,800,jcb
+562,2022-06-04,63,"Lyell Macia",Pengchang,"Emergency Preparedness Kit",Safety,27,100,2700,china-unionpay
+582,2022-04-09,83,"Dorene Derges",Kurovskoye,"Emergency Preparedness Kit",Safety,21,100,2100,jcb
+602,2022-07-16,103,"Yehudit Klimmek",Perstorp,"Emergency Preparedness Kit",Safety,34,100,3400,jcb
+622,NULL,123,"Edward Boyes",Wendengying,"Emergency Preparedness Kit",Safety,5,100,500,diners-club-enroute
+642,2022-04-25,143,"Perry Blaszczak",Aveleda,"Emergency Preparedness Kit",Safety,7,100,700,solo
+662,2022-11-05,163,"Curr Howerd",Sandviken,"Emergency Preparedness Kit",Safety,16,100,1600,mastercard
+682,2022-06-07,183,"Daveta Tottman",Khotynets,"Emergency Preparedness Kit",Safety,1,100,100,jcb
+702,2022-11-06,203,"Kipper Bierman",Noyal-sur-Vilaine,"Emergency Preparedness Kit",Safety,28,100,2800,switch
+722,2022-10-16,223,"Tristan Ennew",Taipinghu,"Emergency Preparedness Kit",Safety,40,100,4000,jcb
+742,2023-03-12,243,"Nissy McLeod",Hal’shany,"Emergency Preparedness Kit",Safety,45,100,4500,visa
+762,2022-04-27,263,"Ines Boxhill",Kybartai,"Emergency Preparedness Kit",Safety,34,100,3400,diners-club-enroute
+782,2022-09-22,283,"Merl Peron",Malindi,"Emergency Preparedness Kit",Safety,5,100,500,jcb
+802,2023-01-02,303,"Katharine Hunnaball",Nevers,"Emergency Preparedness Kit",Safety,44,100,4400,jcb
+822,2022-12-27,323,"Elnore Thacke",Kitchener,"Emergency Preparedness Kit",Safety,38,100,3800,jcb
+842,NULL,343,"Filberte Venditti",Talisay,"Emergency Preparedness Kit",Safety,47,100,4700,diners-club-us-ca
+862,2022-04-10,363,"Brander Monteath",Xiaojinkou,"Emergency Preparedness Kit",Safety,37,100,3700,maestro
+882,2023-02-02,383,"Nigel Edgler",NULL,"Emergency Preparedness Kit",Safety,46,100,4600,americanexpress
+902,NULL,403,NULL,Gyangkar,"Emergency Preparedness Kit",Safety,50,100,5000,americanexpress
+922,2022-05-13,423,"Annissa Capron",Doong,"Emergency Preparedness Kit",Safety,12,100,1200,diners-club-carte-blanche
+942,2022-09-16,443,"Cyrille Pretious","Petaling Jaya","Emergency Preparedness Kit",Safety,3,100,300,mastercard
+962,2023-01-27,463,"Odille Timbs","Nowe Miasto nad Pilicą","Emergency Preparedness Kit",Safety,30,100,3000,solo
+982,2022-05-25,483,"Debi Robinette",Cisagu,"Emergency Preparedness Kit",Safety,49,100,4900,solo
+3,2022-07-06,4,"Nancee Schenfisch",Girijaya,"Lentil Soup (canned)","Food - Canned Goods",0,2,0,mastercard
+23,NULL,24,"Mae Fevier",Palmasola,"Lentil Soup (canned)","Food - Canned Goods",31,2,62,jcb
+43,NULL,44,"Liam Lesley",Leuwayang,"Lentil Soup (canned)","Food - Canned Goods",50,2,100,jcb
+63,2022-09-28,64,"Rodney Elverstone",NULL,"Lentil Soup (canned)","Food - Canned Goods",8,2,16,jcb
+83,2023-02-21,84,"Nikolos Dolden","La Ceja","Lentil Soup (canned)","Food - Canned Goods",38,2,76,jcb
+103,2022-11-18,104,"Karol Mordaunt",Tertek,"Lentil Soup (canned)","Food - Canned Goods",28,2,56,jcb
+123,2022-04-30,124,"Alys Willoway",Cravinhos,"Lentil Soup (canned)","Food - Canned Goods",39,2,78,jcb
+143,2022-05-05,144,"Petrina Bellam",Mirzāpur,"Lentil Soup (canned)","Food - Canned Goods",2,2,4,maestro
+163,2022-07-21,164,"Uriel McGill",Kryevidh,"Lentil Soup (canned)","Food - Canned Goods",27,2,54,jcb
+183,2022-05-12,184,NULL,Litvínovice,"Lentil Soup (canned)","Food - Canned Goods",31,2,62,laser
+203,2023-01-09,204,"Martha Lundie",Yongchuan,"Lentil Soup (canned)","Food - Canned Goods",28,2,56,bankcard
+223,NULL,224,"William Piddlehinton",Cotabambas,"Lentil Soup (canned)","Food - Canned Goods",13,2,26,diners-club-enroute
+243,2023-03-15,244,"Haze Ditchett","Quận Tân Phú","Lentil Soup (canned)","Food - Canned Goods",50,2,100,jcb
+263,2022-12-20,264,"Eba Hambers",Kuzhu,"Lentil Soup (canned)","Food - Canned Goods",44,2,88,mastercard
+283,2022-08-17,284,NULL,Frederiksberg,"Lentil Soup (canned)","Food - Canned Goods",18,2,36,laser
+303,2023-03-02,304,"Kippie Bratt",Sułoszowa,"Lentil Soup (canned)","Food - Canned Goods",0,2,0,jcb
+323,2022-11-05,324,"Brodie Teas","Piotrków Trybunalski","Lentil Soup (canned)","Food - Canned Goods",50,2,100,maestro
+343,2022-06-14,344,"Fayina Filler","Az Zulfi","Lentil Soup (canned)","Food - Canned Goods",22,2,44,jcb
+363,2022-06-27,364,"Melonie Pottle",Osa,"Lentil Soup (canned)","Food - Canned Goods",17,2,34,maestro
+383,2022-08-25,384,NULL,Kolirerek,"Lentil Soup (canned)","Food - Canned Goods",0,2,0,solo
+403,2023-02-14,404,NULL,Balongmulyo,"Lentil Soup (canned)","Food - Canned Goods",31,2,62,bankcard
+423,2022-10-11,424,"Noe Bartelet","Mossel Bay","Lentil Soup (canned)","Food - Canned Goods",13,2,26,diners-club-carte-blanche
+443,2023-02-26,444,"Rosina Maccree",Runsonglaozhai,"Lentil Soup (canned)","Food - Canned Goods",1,2,2,americanexpress
+463,2022-11-10,464,"Gunar Martensen",Velestíno,"Lentil Soup (canned)","Food - Canned Goods",6,2,12,jcb
+483,2022-04-29,484,"Jourdan Leveret",Pohrebyshche,"Lentil Soup (canned)","Food - Canned Goods",22,2,44,mastercard
+503,NULL,4,"Nancee Schenfisch",Girijaya,"Lentil Soup (canned)","Food - Canned Goods",26,2,52,diners-club-enroute
+523,2022-08-08,24,"Mae Fevier",Palmasola,"Lentil Soup (canned)","Food - Canned Goods",7,2,14,maestro
+543,2022-10-01,44,"Liam Lesley",Leuwayang,"Lentil Soup (canned)","Food - Canned Goods",9,2,18,americanexpress
+563,2023-01-01,64,"Rodney Elverstone",NULL,"Lentil Soup (canned)","Food - Canned Goods",30,2,60,laser
+583,2022-10-27,84,"Nikolos Dolden","La Ceja","Lentil Soup (canned)","Food - Canned Goods",26,2,52,jcb
+603,2023-01-25,104,"Karol Mordaunt",Tertek,"Lentil Soup (canned)","Food - Canned Goods",11,2,22,jcb
+623,2023-02-15,124,"Alys Willoway",Cravinhos,"Lentil Soup (canned)","Food - Canned Goods",35,2,70,americanexpress
+643,2022-12-01,144,"Petrina Bellam",Mirzāpur,"Lentil Soup (canned)","Food - Canned Goods",23,2,46,maestro
+663,2022-09-15,164,"Uriel McGill",Kryevidh,"Lentil Soup (canned)","Food - Canned Goods",30,2,60,NULL
+683,2022-09-14,184,NULL,Litvínovice,"Lentil Soup (canned)","Food - Canned Goods",31,2,62,jcb
+703,2022-05-08,204,"Martha Lundie",Yongchuan,"Lentil Soup (canned)","Food - Canned Goods",28,2,56,switch
+723,2022-10-10,224,"William Piddlehinton",Cotabambas,"Lentil Soup (canned)","Food - Canned Goods",29,2,58,jcb
+743,2022-10-25,244,"Haze Ditchett","Quận Tân Phú","Lentil Soup (canned)","Food - Canned Goods",50,2,100,diners-club-enroute
+763,2022-11-24,264,"Eba Hambers",Kuzhu,"Lentil Soup (canned)","Food - Canned Goods",40,2,80,china-unionpay
+783,2022-07-01,284,NULL,Frederiksberg,"Lentil Soup (canned)","Food - Canned Goods",16,2,32,laser
+803,2023-03-05,304,"Kippie Bratt",Sułoszowa,"Lentil Soup (canned)","Food - Canned Goods",21,2,42,jcb
+823,2022-08-28,324,"Brodie Teas","Piotrków Trybunalski","Lentil Soup (canned)","Food - Canned Goods",45,2,90,mastercard
+843,2022-06-09,344,"Fayina Filler","Az Zulfi","Lentil Soup (canned)","Food - Canned Goods",6,2,12,maestro
+863,2022-12-20,364,"Melonie Pottle",Osa,"Lentil Soup (canned)","Food - Canned Goods",25,2,50,jcb
+883,2022-08-16,384,NULL,Kolirerek,"Lentil Soup (canned)","Food - Canned Goods",48,2,96,jcb
+903,2022-08-08,404,NULL,Balongmulyo,"Lentil Soup (canned)","Food - Canned Goods",10,2,20,switch
+923,2023-02-26,424,"Noe Bartelet","Mossel Bay","Lentil Soup (canned)","Food - Canned Goods",36,2,72,jcb
+943,2023-01-12,444,"Rosina Maccree",Runsonglaozhai,"Lentil Soup (canned)","Food - Canned Goods",30,2,60,jcb
+963,2022-10-28,464,"Gunar Martensen",Velestíno,"Lentil Soup (canned)","Food - Canned Goods",17,2,34,jcb
+983,2023-01-31,484,"Jourdan Leveret",Pohrebyshche,"Lentil Soup (canned)","Food - Canned Goods",3,2,6,jcb
+4,2022-09-16,5,"Andros Oxenbury",Épernay,"Laptop Backpack",Accessories,30,50,1500,visa-electron
+24,2022-11-02,25,"Camila Glantz",Fufang,"Laptop Backpack",Accessories,3,50,150,diners-club-carte-blanche
+44,2022-03-30,45,"Peggi Dunnico",Tost,"Laptop Backpack",Accessories,12,50,600,jcb
+64,2023-01-11,65,NULL,Boršice,"Laptop Backpack",Accessories,37,50,1850,bankcard
+84,2022-10-28,85,"Nataniel Purvess",Dahe,"Laptop Backpack",Accessories,14,50,700,americanexpress
+104,2023-01-13,105,"Nobe Ledson",Zagnitkiv,"Laptop Backpack",Accessories,45,50,2250,americanexpress
+124,2023-03-04,125,"Elihu Chelnam","Chowki Jamali","Laptop Backpack",Accessories,38,50,1900,NULL
+144,2022-10-27,145,"Lucky Rosettini",Crespo,"Laptop Backpack",Accessories,39,50,1950,jcb
+164,2022-12-03,165,"Christine Brydell",Gengqing,"Laptop Backpack",Accessories,43,50,2150,jcb
+184,2022-07-30,185,"Wilmette Shepherd",Añatuya,"Laptop Backpack",Accessories,9,50,450,jcb
+204,2022-07-08,205,"Maegan Yitshak","Piotrków Trybunalski","Laptop Backpack",Accessories,48,50,2400,mastercard
+224,2022-04-01,225,"Deirdre Sheivels",Kultayevo,"Laptop Backpack",Accessories,50,50,2500,americanexpress
+244,2022-05-23,245,"Skyler Munday",Torre,"Laptop Backpack",Accessories,0,50,0,NULL
+264,2022-08-26,265,"Sheree Gartsyde","Krajan Kedungsalam","Laptop Backpack",Accessories,14,50,700,jcb
+284,2022-12-19,285,"Ciro Dyott",Medellín,"Laptop Backpack",Accessories,41,50,2050,NULL
+304,NULL,305,NULL,Guaratinguetá,"Laptop Backpack",Accessories,34,50,1700,mastercard
+324,2022-10-24,325,NULL,Uglyanets,"Laptop Backpack",Accessories,25,50,1250,diners-club-carte-blanche
+344,2022-10-28,345,"Wash Siemens",Dahu,"Laptop Backpack",Accessories,44,50,2200,jcb
+364,2022-05-27,365,"Dame Denley",NULL,"Laptop Backpack",Accessories,10,50,500,mastercard
+384,2023-03-05,385,"Ola Nurden",Pantukan,"Laptop Backpack",Accessories,22,50,1100,jcb
+404,2023-01-15,405,"Michaelina Gilbey",Marquard,"Laptop Backpack",Accessories,2,50,100,diners-club-carte-blanche
+424,2023-02-22,425,"Christian Chadbourne",Goúvai,"Laptop Backpack",Accessories,12,50,600,jcb
+444,2022-09-16,445,NULL,Tsiombe,"Laptop Backpack",Accessories,0,50,0,switch
+464,2023-03-01,465,"Layton Georgius",Fengle,"Laptop Backpack",Accessories,16,50,800,diners-club-international
+484,2022-06-30,485,"Hester Slowey",Rameshki,"Laptop Backpack",Accessories,42,50,2100,americanexpress
+504,2023-02-09,5,"Andros Oxenbury",Épernay,"Laptop Backpack",Accessories,36,50,1800,mastercard
+524,2022-06-16,25,"Camila Glantz",Fufang,"Laptop Backpack",Accessories,18,50,900,bankcard
+544,2022-11-28,45,"Peggi Dunnico",Tost,"Laptop Backpack",Accessories,13,50,650,jcb
+564,2022-03-24,65,NULL,Boršice,"Laptop Backpack",Accessories,23,50,1150,jcb
+584,2022-08-22,85,"Nataniel Purvess",Dahe,"Laptop Backpack",Accessories,20,50,1000,americanexpress
+604,2023-01-11,105,"Nobe Ledson",Zagnitkiv,"Laptop Backpack",Accessories,35,50,1750,NULL
+624,2023-02-13,125,"Elihu Chelnam","Chowki Jamali","Laptop Backpack",Accessories,18,50,900,diners-club-international
+644,2022-06-02,145,"Lucky Rosettini",Crespo,"Laptop Backpack",Accessories,24,50,1200,jcb
+664,2022-07-10,165,"Christine Brydell",Gengqing,"Laptop Backpack",Accessories,7,50,350,switch
+684,2022-08-02,185,"Wilmette Shepherd",Añatuya,"Laptop Backpack",Accessories,24,50,1200,bankcard
+704,2022-11-20,205,"Maegan Yitshak","Piotrków Trybunalski","Laptop Backpack",Accessories,44,50,2200,visa-electron
+724,2022-03-27,225,"Deirdre Sheivels",Kultayevo,"Laptop Backpack",Accessories,21,50,1050,jcb
+744,2022-04-07,245,"Skyler Munday",Torre,"Laptop Backpack",Accessories,22,50,1100,instapayment
+764,2022-09-04,265,"Sheree Gartsyde","Krajan Kedungsalam","Laptop Backpack",Accessories,22,50,1100,diners-club-carte-blanche
+784,2022-07-22,285,"Ciro Dyott",Medellín,"Laptop Backpack",Accessories,29,50,1450,china-unionpay
+804,2022-11-12,305,NULL,Guaratinguetá,"Laptop Backpack",Accessories,29,50,1450,visa-electron
+824,2023-01-07,325,NULL,Uglyanets,"Laptop Backpack",Accessories,6,50,300,mastercard
+844,2022-06-05,345,"Wash Siemens",Dahu,"Laptop Backpack",Accessories,49,50,2450,jcb
+864,2022-11-11,365,"Dame Denley",NULL,"Laptop Backpack",Accessories,38,50,1900,visa
+884,2022-04-09,385,"Ola Nurden",Pantukan,"Laptop Backpack",Accessories,18,50,900,mastercard
+904,2022-05-31,405,"Michaelina Gilbey",Marquard,"Laptop Backpack",Accessories,0,50,0,jcb
+924,2022-12-04,425,"Christian Chadbourne",Goúvai,"Laptop Backpack",Accessories,4,50,200,jcb
+944,2022-10-01,445,NULL,Tsiombe,"Laptop Backpack",Accessories,13,50,650,jcb
+964,2022-05-20,465,"Layton Georgius",Fengle,"Laptop Backpack",Accessories,30,50,1500,jcb
+984,2022-08-31,485,"Hester Slowey",Rameshki,"Laptop Backpack",Accessories,24,50,1200,NULL
+5,2022-12-05,6,"Alphard Likly",Chaiwan,"High-Waisted Skirt","Clothing - Bottoms",17,35,595,jcb
+25,2022-11-25,26,"Marketa Matterface",Anjirserapat,"High-Waisted Skirt","Clothing - Bottoms",13,35,455,bankcard
+45,2022-08-10,46,NULL,Pamakayo,"High-Waisted Skirt","Clothing - Bottoms",8,35,280,jcb
+65,2022-03-20,66,"Emlynn Cultcheth",Liucheng,"High-Waisted Skirt","Clothing - Bottoms",9,35,315,bankcard
+85,2022-06-21,86,"Nap Kershow","San Jerónimo","High-Waisted Skirt","Clothing - Bottoms",42,35,1470,china-unionpay
+105,2023-03-14,106,"Gail Spinello",Haradok,"High-Waisted Skirt","Clothing - Bottoms",36,35,1260,americanexpress
+125,2022-12-04,126,"Trip McGroarty",NULL,"High-Waisted Skirt","Clothing - Bottoms",46,35,1610,jcb
+145,2022-07-28,146,"Almeria Wesley",Yayao,"High-Waisted Skirt","Clothing - Bottoms",0,35,0,jcb
+165,2022-10-03,166,"Ramonda Michell",Beppu,"High-Waisted Skirt","Clothing - Bottoms",29,35,1015,americanexpress
+185,2022-09-10,186,"Butch Dilleway",NULL,"High-Waisted Skirt","Clothing - Bottoms",32,35,1120,jcb
+205,2022-06-03,206,"Clarke MacCostye",Atibaia,"High-Waisted Skirt","Clothing - Bottoms",3,35,105,switch
+225,2022-09-01,226,"Piotr Espine","El Benque","High-Waisted Skirt","Clothing - Bottoms",0,35,0,americanexpress
+245,2022-09-14,246,"Arlinda Strangwood",Nevel’,"High-Waisted Skirt","Clothing - Bottoms",8,35,280,jcb
+265,2023-01-05,266,"Dilly Platt",Outeiro,"High-Waisted Skirt","Clothing - Bottoms",37,35,1295,instapayment
+285,2023-02-09,286,"Joli Casaccia",Bukomansimbi,"High-Waisted Skirt","Clothing - Bottoms",0,35,0,switch
+305,2022-06-12,306,"Clementine Mustard",Setúbal,"High-Waisted Skirt","Clothing - Bottoms",12,35,420,laser
+325,2022-12-04,326,"Christophorus Sleet",Rumyantsevo,"High-Waisted Skirt","Clothing - Bottoms",35,35,1225,maestro
+345,2022-06-12,346,"Koenraad Radcliffe",Okiot,"High-Waisted Skirt","Clothing - Bottoms",10,35,350,jcb
+365,2022-07-01,366,"Bail Peters",Öndörhoshuu,"High-Waisted Skirt","Clothing - Bottoms",0,35,0,mastercard
+385,2022-07-09,386,"Selby Stapylton",Obo,"High-Waisted Skirt","Clothing - Bottoms",5,35,175,jcb
+405,2023-01-24,406,"Olenka Dumbrell",Lebedyn,"High-Waisted Skirt","Clothing - Bottoms",21,35,735,solo
+425,2023-01-03,426,"Yulma Frascone",Villasis,"High-Waisted Skirt","Clothing - Bottoms",17,35,595,americanexpress
+445,2022-07-19,446,"Henrie Ambrosetti",Gulrip’shi,"High-Waisted Skirt","Clothing - Bottoms",0,35,0,maestro
+465,2022-09-20,466,"Pascal Corkan",NULL,"High-Waisted Skirt","Clothing - Bottoms",19,35,665,mastercard
+485,2022-07-29,486,"Ardella Donnachie",Xinfeng,"High-Waisted Skirt","Clothing - Bottoms",33,35,1155,maestro
+505,2022-03-16,6,"Alphard Likly",Chaiwan,"High-Waisted Skirt","Clothing - Bottoms",34,35,1190,diners-club-enroute
+525,2022-07-06,26,"Marketa Matterface",Anjirserapat,"High-Waisted Skirt","Clothing - Bottoms",49,35,1715,jcb
+545,2022-12-27,46,NULL,Pamakayo,"High-Waisted Skirt","Clothing - Bottoms",0,35,0,jcb
+565,2022-04-07,66,"Emlynn Cultcheth",Liucheng,"High-Waisted Skirt","Clothing - Bottoms",3,35,105,jcb
+585,2022-09-20,86,"Nap Kershow","San Jerónimo","High-Waisted Skirt","Clothing - Bottoms",12,35,420,jcb
+605,2022-11-10,106,"Gail Spinello",Haradok,"High-Waisted Skirt","Clothing - Bottoms",17,35,595,diners-club-carte-blanche
+625,2023-01-24,126,"Trip McGroarty",NULL,"High-Waisted Skirt","Clothing - Bottoms",16,35,560,jcb
+645,2023-01-01,146,"Almeria Wesley",Yayao,"High-Waisted Skirt","Clothing - Bottoms",50,35,1750,jcb
+665,2022-12-10,166,"Ramonda Michell",Beppu,"High-Waisted Skirt","Clothing - Bottoms",24,35,840,jcb
+685,2022-08-24,186,"Butch Dilleway",NULL,"High-Waisted Skirt","Clothing - Bottoms",12,35,420,switch
+705,2022-07-21,206,"Clarke MacCostye",Atibaia,"High-Waisted Skirt","Clothing - Bottoms",5,35,175,jcb
+725,2022-03-16,226,"Piotr Espine","El Benque","High-Waisted Skirt","Clothing - Bottoms",10,35,350,americanexpress
+745,2023-02-08,246,"Arlinda Strangwood",Nevel’,"High-Waisted Skirt","Clothing - Bottoms",21,35,735,jcb
+765,2022-07-21,266,"Dilly Platt",Outeiro,"High-Waisted Skirt","Clothing - Bottoms",0,35,0,maestro
+785,2023-03-09,286,"Joli Casaccia",Bukomansimbi,"High-Waisted Skirt","Clothing - Bottoms",17,35,595,jcb
+805,2022-08-02,306,"Clementine Mustard",Setúbal,"High-Waisted Skirt","Clothing - Bottoms",41,35,1435,visa-electron
+825,2022-08-31,326,"Christophorus Sleet",Rumyantsevo,"High-Waisted Skirt","Clothing - Bottoms",1,35,35,jcb
+845,2022-11-09,346,"Koenraad Radcliffe",Okiot,"High-Waisted Skirt","Clothing - Bottoms",49,35,1715,jcb
+865,2022-03-20,366,"Bail Peters",Öndörhoshuu,"High-Waisted Skirt","Clothing - Bottoms",0,35,0,jcb
+885,2023-02-20,386,"Selby Stapylton",Obo,"High-Waisted Skirt","Clothing - Bottoms",13,35,455,maestro
+905,NULL,406,"Olenka Dumbrell",Lebedyn,"High-Waisted Skirt","Clothing - Bottoms",35,35,1225,jcb
+925,2023-01-23,426,"Yulma Frascone",Villasis,"High-Waisted Skirt","Clothing - Bottoms",0,35,0,maestro
+945,2023-01-17,446,"Henrie Ambrosetti",Gulrip’shi,"High-Waisted Skirt","Clothing - Bottoms",22,35,770,solo
+965,2022-10-01,466,"Pascal Corkan",NULL,"High-Waisted Skirt","Clothing - Bottoms",33,35,1155,jcb
+985,2022-11-01,486,"Ardella Donnachie",Xinfeng,"High-Waisted Skirt","Clothing - Bottoms",9,35,315,visa-electron
+6,NULL,7,"Erastus Perschke",Pilang,"Ice Cream Scoop",Kitchen,45,13,585,jcb
+26,2022-09-23,27,"Becka Shrieves",Limoges,"Ice Cream Scoop",Kitchen,7,13,91,jcb
+46,2022-09-14,47,"Arden Antoniewicz",Piña,"Ice Cream Scoop",Kitchen,48,13,624,maestro
+66,2022-06-17,67,"Averell Knutton","São Mamede de Infesta","Ice Cream Scoop",Kitchen,46,13,598,NULL
+86,2022-08-29,87,"Velma Kenningham","São José de Ribamar","Ice Cream Scoop",Kitchen,17,13,221,jcb
+106,2023-02-03,107,"Esmeralda Hazle",Chornorudka,"Ice Cream Scoop",Kitchen,26,13,338,jcb
+126,2022-07-15,127,"North Philot","Cravo Norte","Ice Cream Scoop",Kitchen,18,13,234,jcb
+146,2022-12-01,147,"Krystal Portch","Lagoa Seca","Ice Cream Scoop",Kitchen,5,13,65,visa-electron
+166,2022-11-28,167,"Binky Steele",Obršani,"Ice Cream Scoop",Kitchen,11,13,143,visa-electron
+186,2022-12-13,187,"Dew Owens",Łęczyce,"Ice Cream Scoop",Kitchen,49,13,637,switch
+206,2022-08-30,207,"Odelle Bony","Kthella e Epërme","Ice Cream Scoop",Kitchen,5,13,65,maestro
+226,2022-10-28,227,"Minetta Dumbarton",Teseney,"Ice Cream Scoop",Kitchen,29,13,377,jcb
+246,2022-10-18,247,NULL,Leiden,"Ice Cream Scoop",Kitchen,30,13,390,jcb
+266,2022-10-21,267,"Marleen Twatt",Urus-Martan,"Ice Cream Scoop",Kitchen,35,13,455,maestro
+286,2022-08-19,287,"Collin Eggleson","Bayan Hot","Ice Cream Scoop",Kitchen,25,13,325,NULL
+306,2022-10-10,307,"Mariel Tofano",Velizh,"Ice Cream Scoop",Kitchen,50,13,650,maestro
+326,2022-07-14,327,"Doria Millhill",Mamonit,"Ice Cream Scoop",Kitchen,8,13,104,mastercard
+346,2023-02-09,347,"Tiphanie Nolda",Zapolyarnyy,"Ice Cream Scoop",Kitchen,13,13,169,switch
+366,2022-08-17,367,"Erick MacGow",NULL,"Ice Cream Scoop",Kitchen,29,13,377,NULL
+386,NULL,387,"Fremont Moran",Khvānsār,"Ice Cream Scoop",Kitchen,50,13,650,instapayment
+406,2022-08-30,407,NULL,"La Romana","Ice Cream Scoop",Kitchen,45,13,585,visa
+426,2022-11-21,427,"Annice Semorad",Yuquan,"Ice Cream Scoop",Kitchen,36,13,468,bankcard
+446,2022-04-17,447,"Manuel Wyley","Nakło nad Notecią","Ice Cream Scoop",Kitchen,22,13,286,china-unionpay
+466,2023-02-18,467,"Barnard Champ",Kalunan,"Ice Cream Scoop",Kitchen,27,13,351,china-unionpay
+486,2022-12-24,487,"Aksel Romayn",Gjegjan,"Ice Cream Scoop",Kitchen,1,13,13,bankcard
+506,2022-12-26,7,"Erastus Perschke",Pilang,"Ice Cream Scoop",Kitchen,43,13,559,china-unionpay
+526,2022-04-14,27,"Becka Shrieves",Limoges,"Ice Cream Scoop",Kitchen,35,13,455,mastercard
+546,2022-08-18,47,"Arden Antoniewicz",Piña,"Ice Cream Scoop",Kitchen,16,13,208,maestro
+566,2023-02-05,67,"Averell Knutton","São Mamede de Infesta","Ice Cream Scoop",Kitchen,19,13,247,americanexpress
+586,2022-05-30,87,"Velma Kenningham","São José de Ribamar","Ice Cream Scoop",Kitchen,22,13,286,maestro
+606,2023-02-05,107,"Esmeralda Hazle",Chornorudka,"Ice Cream Scoop",Kitchen,12,13,156,jcb
+626,2023-01-26,127,"North Philot","Cravo Norte","Ice Cream Scoop",Kitchen,28,13,364,jcb
+646,NULL,147,"Krystal Portch","Lagoa Seca","Ice Cream Scoop",Kitchen,26,13,338,jcb
+666,2022-05-23,167,"Binky Steele",Obršani,"Ice Cream Scoop",Kitchen,17,13,221,switch
+686,2022-10-10,187,"Dew Owens",Łęczyce,"Ice Cream Scoop",Kitchen,41,13,533,solo
+706,2022-11-26,207,"Odelle Bony","Kthella e Epërme","Ice Cream Scoop",Kitchen,33,13,429,mastercard
+726,2022-10-01,227,"Minetta Dumbarton",Teseney,"Ice Cream Scoop",Kitchen,33,13,429,diners-club-enroute
+746,2023-01-17,247,NULL,Leiden,"Ice Cream Scoop",Kitchen,22,13,286,bankcard
+766,2022-08-26,267,"Marleen Twatt",Urus-Martan,"Ice Cream Scoop",Kitchen,5,13,65,jcb
+786,2022-12-20,287,"Collin Eggleson","Bayan Hot","Ice Cream Scoop",Kitchen,22,13,286,maestro
+806,2022-11-09,307,"Mariel Tofano",Velizh,"Ice Cream Scoop",Kitchen,7,13,91,diners-club-international
+826,2022-06-12,327,"Doria Millhill",Mamonit,"Ice Cream Scoop",Kitchen,42,13,546,diners-club-carte-blanche
+846,2022-08-01,347,"Tiphanie Nolda",Zapolyarnyy,"Ice Cream Scoop",Kitchen,48,13,624,jcb
+866,2022-04-01,367,"Erick MacGow",NULL,"Ice Cream Scoop",Kitchen,24,13,312,jcb
+886,2023-03-15,387,"Fremont Moran",Khvānsār,"Ice Cream Scoop",Kitchen,44,13,572,switch
+906,2023-01-23,407,NULL,"La Romana","Ice Cream Scoop",Kitchen,5,13,65,jcb
+926,2022-11-02,427,"Annice Semorad",Yuquan,"Ice Cream Scoop",Kitchen,8,13,104,jcb
+946,2022-07-30,447,"Manuel Wyley","Nakło nad Notecią","Ice Cream Scoop",Kitchen,20,13,260,maestro
+966,2023-02-16,467,"Barnard Champ",Kalunan,"Ice Cream Scoop",Kitchen,10,13,130,visa
+986,2022-09-11,487,"Aksel Romayn",Gjegjan,"Ice Cream Scoop",Kitchen,38,13,494,jcb
+7,2023-01-25,8,"Harper Drohun",NULL,"Frozen Mixed Vegetables","Food - Frozen",13,2,26,diners-club-us-ca
+27,2022-05-12,28,"Juditha Cooke",Hongtu,"Frozen Mixed Vegetables","Food - Frozen",27,2,54,mastercard
+47,2023-03-13,48,"Giavani Lunbech",Preobrazheniye,"Frozen Mixed Vegetables","Food - Frozen",39,2,78,china-unionpay
+67,2022-11-03,68,"Bonnibelle Savaage",Pigí,"Frozen Mixed Vegetables","Food - Frozen",48,2,96,jcb
+87,2022-06-16,88,"Raye Escott",Gnosjö,"Frozen Mixed Vegetables","Food - Frozen",6,2,12,diners-club-enroute
+107,2023-01-18,108,"Peggi Culley",Serzedo,"Frozen Mixed Vegetables","Food - Frozen",13,2,26,jcb
+127,2023-03-04,128,"Anna Marmion",Hyesan-dong,"Frozen Mixed Vegetables","Food - Frozen",19,2,38,diners-club-carte-blanche
+147,2022-12-21,148,"Laure Napleton",Skópelos,"Frozen Mixed Vegetables","Food - Frozen",8,2,16,jcb
+167,2022-10-14,168,"Ermengarde Ketteridge",Zishan,"Frozen Mixed Vegetables","Food - Frozen",1,2,2,jcb
+187,2022-10-01,188,"Candi Papierz",Midland,"Frozen Mixed Vegetables","Food - Frozen",0,2,0,visa-electron
+207,2022-07-24,208,"Catherina Kornes",Yuci,"Frozen Mixed Vegetables","Food - Frozen",12,2,24,jcb
+227,2022-11-16,228,"Hayley Ivanishev","San José","Frozen Mixed Vegetables","Food - Frozen",24,2,48,diners-club-carte-blanche
+247,2022-11-14,248,"Laraine Timlin","Puan Selatan","Frozen Mixed Vegetables","Food - Frozen",19,2,38,visa-electron
+267,NULL,268,"Jan Graveney",Shicheng,"Frozen Mixed Vegetables","Food - Frozen",45,2,90,switch
+287,NULL,288,"Ammamaria Bellis",Halat,"Frozen Mixed Vegetables","Food - Frozen",18,2,36,jcb
+307,2022-10-15,308,"Wrennie Buye","Shuyuan Zhen","Frozen Mixed Vegetables","Food - Frozen",40,2,80,china-unionpay
+327,2022-08-29,328,"Leonie Gouthier",Dalang,"Frozen Mixed Vegetables","Food - Frozen",33,2,66,visa-electron
+347,2022-07-16,348,"Dorena Fochs",Cubará,"Frozen Mixed Vegetables","Food - Frozen",49,2,98,jcb
+367,2022-07-24,368,"Consalve Hedden",Bessonovka,"Frozen Mixed Vegetables","Food - Frozen",38,2,76,diners-club-carte-blanche
+387,2022-10-26,388,"Briggs Killingworth",Liuduzhai,"Frozen Mixed Vegetables","Food - Frozen",19,2,38,visa-electron
+407,2022-08-11,408,"Kinna Fawdry",Zhaoyuan,"Frozen Mixed Vegetables","Food - Frozen",26,2,52,jcb
+427,2022-07-19,428,NULL,Cabrero,"Frozen Mixed Vegetables","Food - Frozen",39,2,78,jcb
+447,2022-10-25,448,"Michaela Norssister",Washington,"Frozen Mixed Vegetables","Food - Frozen",50,2,100,diners-club-international
+467,2023-02-08,468,"Theadora Sabati","San Diego","Frozen Mixed Vegetables","Food - Frozen",0,2,0,jcb
+487,2022-11-10,488,"Darline Boatwright",Abovyan,"Frozen Mixed Vegetables","Food - Frozen",37,2,74,jcb
+507,2022-05-27,8,"Harper Drohun",NULL,"Frozen Mixed Vegetables","Food - Frozen",6,2,12,jcb
+527,2022-05-06,28,"Juditha Cooke",Hongtu,"Frozen Mixed Vegetables","Food - Frozen",45,2,90,diners-club-carte-blanche
+547,2023-01-29,48,"Giavani Lunbech",Preobrazheniye,"Frozen Mixed Vegetables","Food - Frozen",38,2,76,visa
+567,2022-08-26,68,"Bonnibelle Savaage",Pigí,"Frozen Mixed Vegetables","Food - Frozen",16,2,32,NULL
+587,2022-05-26,88,"Raye Escott",Gnosjö,"Frozen Mixed Vegetables","Food - Frozen",41,2,82,jcb
+607,2023-02-28,108,"Peggi Culley",Serzedo,"Frozen Mixed Vegetables","Food - Frozen",2,2,4,maestro
+627,2022-05-30,128,"Anna Marmion",Hyesan-dong,"Frozen Mixed Vegetables","Food - Frozen",42,2,84,diners-club-carte-blanche
+647,NULL,148,"Laure Napleton",Skópelos,"Frozen Mixed Vegetables","Food - Frozen",12,2,24,jcb
+667,NULL,168,"Ermengarde Ketteridge",Zishan,"Frozen Mixed Vegetables","Food - Frozen",41,2,82,jcb
+687,2023-02-22,188,"Candi Papierz",Midland,"Frozen Mixed Vegetables","Food - Frozen",18,2,36,instapayment
+707,2022-10-02,208,"Catherina Kornes",Yuci,"Frozen Mixed Vegetables","Food - Frozen",37,2,74,jcb
+727,2022-03-28,228,"Hayley Ivanishev","San José","Frozen Mixed Vegetables","Food - Frozen",22,2,44,diners-club-enroute
+747,2022-12-09,248,"Laraine Timlin","Puan Selatan","Frozen Mixed Vegetables","Food - Frozen",32,2,64,china-unionpay
+767,2022-11-22,268,"Jan Graveney",Shicheng,"Frozen Mixed Vegetables","Food - Frozen",36,2,72,diners-club-us-ca
+787,2022-08-22,288,"Ammamaria Bellis",Halat,"Frozen Mixed Vegetables","Food - Frozen",7,2,14,NULL
+807,2022-06-15,308,"Wrennie Buye","Shuyuan Zhen","Frozen Mixed Vegetables","Food - Frozen",22,2,44,jcb
+827,2022-08-22,328,"Leonie Gouthier",Dalang,"Frozen Mixed Vegetables","Food - Frozen",24,2,48,laser
+847,2022-09-12,348,"Dorena Fochs",Cubará,"Frozen Mixed Vegetables","Food - Frozen",0,2,0,switch
+867,2022-09-07,368,"Consalve Hedden",Bessonovka,"Frozen Mixed Vegetables","Food - Frozen",44,2,88,jcb
+887,2022-10-03,388,"Briggs Killingworth",Liuduzhai,"Frozen Mixed Vegetables","Food - Frozen",7,2,14,jcb
+907,2022-11-24,408,"Kinna Fawdry",Zhaoyuan,"Frozen Mixed Vegetables","Food - Frozen",30,2,60,maestro
+927,2022-09-11,428,NULL,Cabrero,"Frozen Mixed Vegetables","Food - Frozen",49,2,98,jcb
+947,2022-11-07,448,"Michaela Norssister",Washington,"Frozen Mixed Vegetables","Food - Frozen",33,2,66,jcb
+967,2022-10-30,468,"Theadora Sabati","San Diego","Frozen Mixed Vegetables","Food - Frozen",9,2,18,mastercard
+987,2022-07-22,488,"Darline Boatwright",Abovyan,"Frozen Mixed Vegetables","Food - Frozen",30,2,60,mastercard
+8,2023-02-13,9,"Vassily Strattan",Sokol,"Electric Skillet",Kitchen,18,50,900,NULL
+28,2022-11-22,29,"Margaret Ciccone",NULL,"Electric Skillet",Kitchen,23,50,1150,visa-electron
+48,2022-10-03,49,"Haskell Blackaby",Dīvāndarreh,"Electric Skillet",Kitchen,10,50,500,bankcard
+68,2022-05-05,69,"Salmon Llewelly",Gampingan,"Electric Skillet",Kitchen,0,50,0,jcb
+88,2022-11-07,89,"Kristy Ricks",Tsagaan-Owoo,"Electric Skillet",Kitchen,4,50,200,jcb
+108,NULL,109,"Oswald Bartelot",Socota,"Electric Skillet",Kitchen,31,50,1550,NULL
+128,2023-02-12,129,"Jesselyn Guidoni",Peer,"Electric Skillet",Kitchen,22,50,1100,laser
+148,2022-05-19,149,NULL,Gosen,"Electric Skillet",Kitchen,37,50,1850,americanexpress
+168,2022-10-05,169,"Morna Gimbrett",Qiaolin,"Electric Skillet",Kitchen,22,50,1100,jcb
+188,NULL,189,"Frank Bottoms",Sainte-Sophie,"Electric Skillet",Kitchen,0,50,0,china-unionpay
+208,2022-09-06,209,"Maurine Endley",Yirshi,"Electric Skillet",Kitchen,20,50,1000,jcb
+228,2022-06-05,229,"Leonid Gummoe",Vanadzor,"Electric Skillet",Kitchen,43,50,2150,mastercard
+248,NULL,249,"Zelda Renol",Usu,"Electric Skillet",Kitchen,12,50,600,maestro
+268,NULL,269,NULL,"Vila Boa do Bispo","Electric Skillet",Kitchen,32,50,1600,jcb
+288,2022-07-14,289,"Melita Wyrill",Lianzhu,"Electric Skillet",Kitchen,29,50,1450,jcb
+308,2023-03-01,309,"Kalinda Newns",Chachagüí,"Electric Skillet",Kitchen,5,50,250,solo
+328,2022-06-11,329,"Stuart Randall","São Pedro de Trafaria","Electric Skillet",Kitchen,11,50,550,visa
+348,NULL,349,"Lion Burrage","Pandangan Kulon","Electric Skillet",Kitchen,0,50,0,maestro
+368,2022-11-18,369,"Joscelin McCloughlin",Napu,"Electric Skillet",Kitchen,0,50,0,china-unionpay
+388,2022-04-23,389,"Rog Urrey",NULL,"Electric Skillet",Kitchen,0,50,0,visa-electron
+408,2022-09-19,409,"Inglis Wardrop",Shenwan,"Electric Skillet",Kitchen,5,50,250,visa-electron
+428,2022-08-21,429,"Drugi Boshell",Beppu,"Electric Skillet",Kitchen,40,50,2000,maestro
+448,2022-07-05,449,"Clim Werendell",Song,"Electric Skillet",Kitchen,32,50,1600,bankcard
+468,2022-04-09,469,"Vinni Windus",Daping,"Electric Skillet",Kitchen,7,50,350,solo
+488,2023-02-12,489,"Willy Grigorian",Jazovo,"Electric Skillet",Kitchen,19,50,950,mastercard
+508,2022-12-08,9,"Vassily Strattan",Sokol,"Electric Skillet",Kitchen,35,50,1750,NULL
+528,2022-06-14,29,"Margaret Ciccone",NULL,"Electric Skillet",Kitchen,0,50,0,NULL
+548,2022-04-30,49,"Haskell Blackaby",Dīvāndarreh,"Electric Skillet",Kitchen,28,50,1400,jcb
+568,2022-11-23,69,"Salmon Llewelly",Gampingan,"Electric Skillet",Kitchen,31,50,1550,visa
+588,2022-05-24,89,"Kristy Ricks",Tsagaan-Owoo,"Electric Skillet",Kitchen,13,50,650,jcb
+608,2022-04-11,109,"Oswald Bartelot",Socota,"Electric Skillet",Kitchen,16,50,800,bankcard
+628,2022-11-18,129,"Jesselyn Guidoni",Peer,"Electric Skillet",Kitchen,42,50,2100,jcb
+648,2022-10-13,149,NULL,Gosen,"Electric Skillet",Kitchen,0,50,0,china-unionpay
+668,2022-07-20,169,"Morna Gimbrett",Qiaolin,"Electric Skillet",Kitchen,13,50,650,visa
+688,2022-12-06,189,"Frank Bottoms",Sainte-Sophie,"Electric Skillet",Kitchen,39,50,1950,jcb
+708,2022-04-23,209,"Maurine Endley",Yirshi,"Electric Skillet",Kitchen,12,50,600,mastercard
+728,2023-01-01,229,"Leonid Gummoe",Vanadzor,"Electric Skillet",Kitchen,18,50,900,maestro
+748,2022-08-12,249,"Zelda Renol",Usu,"Electric Skillet",Kitchen,3,50,150,visa-electron
+768,2022-10-16,269,NULL,"Vila Boa do Bispo","Electric Skillet",Kitchen,12,50,600,diners-club-carte-blanche
+788,2022-06-17,289,"Melita Wyrill",Lianzhu,"Electric Skillet",Kitchen,12,50,600,visa-electron
+808,2022-08-27,309,"Kalinda Newns",Chachagüí,"Electric Skillet",Kitchen,1,50,50,jcb
+828,2022-04-12,329,"Stuart Randall","São Pedro de Trafaria","Electric Skillet",Kitchen,37,50,1850,jcb
+848,2023-03-11,349,"Lion Burrage","Pandangan Kulon","Electric Skillet",Kitchen,33,50,1650,bankcard
+868,2022-09-17,369,"Joscelin McCloughlin",Napu,"Electric Skillet",Kitchen,39,50,1950,jcb
+888,2022-09-30,389,"Rog Urrey",NULL,"Electric Skillet",Kitchen,50,50,2500,NULL
+908,2022-05-13,409,"Inglis Wardrop",Shenwan,"Electric Skillet",Kitchen,50,50,2500,switch
+928,2022-06-08,429,"Drugi Boshell",Beppu,"Electric Skillet",Kitchen,29,50,1450,diners-club-international
+948,2023-01-22,449,"Clim Werendell",Song,"Electric Skillet",Kitchen,33,50,1650,NULL
+968,2023-01-02,469,"Vinni Windus",Daping,"Electric Skillet",Kitchen,6,50,300,laser
+988,2023-03-08,489,"Willy Grigorian",Jazovo,"Electric Skillet",Kitchen,20,50,1000,diners-club-enroute
+9,2022-11-17,10,"Nani Shakspeare",Ixopo,"Freestanding Wine Rack",NULL,39,80,3120,mastercard
+29,2022-06-20,30,"Alane Plume",Marinha,"Freestanding Wine Rack",NULL,20,80,1600,jcb
+49,2022-05-07,50,"Rebekah Gask",NULL,"Freestanding Wine Rack",NULL,47,80,3760,NULL
+69,2023-02-08,70,"Ula Kleanthous",Zhalinghu,"Freestanding Wine Rack",NULL,9,80,720,jcb
+89,2022-08-11,90,"Godart Van Vuuren",NULL,"Freestanding Wine Rack",NULL,36,80,2880,mastercard
+109,2022-05-03,110,"Bevvy Scrowton",Shicheng,"Freestanding Wine Rack",NULL,12,80,960,jcb
+129,2022-06-16,130,"Griswold Barrim",Daja,"Freestanding Wine Rack",NULL,36,80,2880,china-unionpay
+149,2022-11-19,150,"Alvin Geharke",Baní,"Freestanding Wine Rack",NULL,10,80,800,jcb
+169,2022-11-30,170,"Doretta Palliser",Manlucahoc,"Freestanding Wine Rack",NULL,0,80,0,maestro
+189,2022-07-15,190,"Maye Jacmar",Warwick,"Freestanding Wine Rack",NULL,44,80,3520,china-unionpay
+209,2022-11-19,210,"Bobbette Pletts",Huating,"Freestanding Wine Rack",NULL,36,80,2880,jcb
+229,2022-06-07,230,"Benedikta Covendon",Sindangsari,"Freestanding Wine Rack",NULL,41,80,3280,americanexpress
+249,2022-06-04,250,"Jonell Kiddye",Tsalgar,"Freestanding Wine Rack",NULL,43,80,3440,americanexpress
+269,2022-07-25,270,"Zedekiah Stapells","San Pedro","Freestanding Wine Rack",NULL,35,80,2800,jcb
+289,2022-11-11,290,"Torr Kane","Wang Yang","Freestanding Wine Rack",NULL,18,80,1440,maestro
+309,2022-07-03,310,"Lucila Raulstone",Jeseník,"Freestanding Wine Rack",NULL,15,80,1200,visa-electron
+329,2022-05-07,330,"Mackenzie Minshall",Parthenay,"Freestanding Wine Rack",NULL,30,80,2400,NULL
+349,2022-10-06,350,"Filia McEniry",Bongandanga,"Freestanding Wine Rack",NULL,22,80,1760,china-unionpay
+369,2022-07-11,370,"Davy Fey",Арачиново,"Freestanding Wine Rack",NULL,6,80,480,switch
+389,2022-10-14,390,"Judy Cultcheth",Beixin,"Freestanding Wine Rack",NULL,43,80,3440,switch
+409,2022-08-08,410,"Madalyn Wimpeney",Fonteleite,"Freestanding Wine Rack",NULL,19,80,1520,switch
+429,2022-07-21,430,"De Whitechurch",Kipushi,"Freestanding Wine Rack",NULL,48,80,3840,visa-electron
+449,2023-03-14,450,"Reggis Click",Hāsilpur,"Freestanding Wine Rack",NULL,1,80,80,instapayment
+469,2022-08-07,470,"Jennee Snodden",Trbovlje,"Freestanding Wine Rack",NULL,24,80,1920,china-unionpay
+489,2022-08-01,490,"Kat Snelman",Citeureup,"Freestanding Wine Rack",NULL,3,80,240,diners-club-enroute
+509,2022-06-23,10,"Nani Shakspeare",Ixopo,"Freestanding Wine Rack",NULL,16,80,1280,diners-club-us-ca
+529,2022-09-03,30,"Alane Plume",Marinha,"Freestanding Wine Rack",NULL,42,80,3360,diners-club-us-ca
+549,2022-07-19,50,"Rebekah Gask",NULL,"Freestanding Wine Rack",NULL,9,80,720,jcb
+569,2022-06-18,70,"Ula Kleanthous",Zhalinghu,"Freestanding Wine Rack",NULL,17,80,1360,jcb
+589,2022-12-05,90,"Godart Van Vuuren",NULL,"Freestanding Wine Rack",NULL,40,80,3200,diners-club-enroute
+609,2023-03-04,110,"Bevvy Scrowton",Shicheng,"Freestanding Wine Rack",NULL,12,80,960,jcb
+629,2022-05-05,130,"Griswold Barrim",Daja,"Freestanding Wine Rack",NULL,8,80,640,jcb
+649,2022-10-29,150,"Alvin Geharke",Baní,"Freestanding Wine Rack",NULL,40,80,3200,jcb
+669,NULL,170,"Doretta Palliser",Manlucahoc,"Freestanding Wine Rack",NULL,42,80,3360,mastercard
+689,2022-11-09,190,"Maye Jacmar",Warwick,"Freestanding Wine Rack",NULL,27,80,2160,solo
+709,2022-11-09,210,"Bobbette Pletts",Huating,"Freestanding Wine Rack",NULL,48,80,3840,americanexpress
+729,2022-07-24,230,"Benedikta Covendon",Sindangsari,"Freestanding Wine Rack",NULL,44,80,3520,switch
+749,2023-01-03,250,"Jonell Kiddye",Tsalgar,"Freestanding Wine Rack",NULL,42,80,3360,laser
+769,2023-02-22,270,"Zedekiah Stapells","San Pedro","Freestanding Wine Rack",NULL,18,80,1440,switch
+789,2022-07-10,290,"Torr Kane","Wang Yang","Freestanding Wine Rack",NULL,0,80,0,jcb
+809,2022-08-30,310,"Lucila Raulstone",Jeseník,"Freestanding Wine Rack",NULL,40,80,3200,jcb
+829,2022-07-07,330,"Mackenzie Minshall",Parthenay,"Freestanding Wine Rack",NULL,8,80,640,mastercard
+849,2022-04-18,350,"Filia McEniry",Bongandanga,"Freestanding Wine Rack",NULL,9,80,720,mastercard
+869,2022-08-09,370,"Davy Fey",Арачиново,"Freestanding Wine Rack",NULL,0,80,0,jcb
+889,2023-03-14,390,"Judy Cultcheth",Beixin,"Freestanding Wine Rack",NULL,0,80,0,jcb
+909,2023-01-06,410,"Madalyn Wimpeney",Fonteleite,"Freestanding Wine Rack",NULL,3,80,240,bankcard
+929,2023-03-06,430,"De Whitechurch",Kipushi,"Freestanding Wine Rack",NULL,11,80,880,americanexpress
+949,2022-11-04,450,"Reggis Click",Hāsilpur,"Freestanding Wine Rack",NULL,6,80,480,jcb
+969,2022-07-28,470,"Jennee Snodden",Trbovlje,"Freestanding Wine Rack",NULL,0,80,0,jcb
+989,2022-11-21,490,"Kat Snelman",Citeureup,"Freestanding Wine Rack",NULL,23,80,1840,jcb
+10,2022-10-22,11,"Elliot Hancke",Неготино,"Bluetooth Headphones",Audio,2,80,160,maestro
+30,2022-04-16,31,"Nataniel Lincey",Luoxiong,"Bluetooth Headphones",Audio,21,80,1680,jcb
+50,2022-07-07,51,NULL,"Prince Albert","Bluetooth Headphones",Audio,46,80,3680,maestro
+70,2022-07-07,71,"Lizzie Domone","Verkhniy Baskunchak","Bluetooth Headphones",Audio,2,80,160,mastercard
+90,2022-09-25,91,"Wanda Gabb",Vilnius,"Bluetooth Headphones",Audio,3,80,240,jcb
+110,2022-05-20,111,"Lemar Polycote","Santa Cruz","Bluetooth Headphones",Audio,23,80,1840,jcb
+130,2023-01-27,131,"Kiel Lilie",Qamdo,"Bluetooth Headphones",Audio,36,80,2880,maestro
+150,2022-05-01,151,NULL,Fredrikstad,"Bluetooth Headphones",Audio,1,80,80,china-unionpay
+170,2023-01-17,171,"Analiese Gillfillan",Qingzhou,"Bluetooth Headphones",Audio,17,80,1360,diners-club-enroute
+190,2022-10-09,191,"Kristina Tomczynski",Jiangna,"Bluetooth Headphones",Audio,24,80,1920,jcb
+210,2022-03-28,211,"Kippie Stallibrass",Kärdla,"Bluetooth Headphones",Audio,0,80,0,jcb
+230,2022-06-07,231,"Jdavie Loadsman",Makanya,"Bluetooth Headphones",Audio,35,80,2800,laser
+250,2022-06-29,251,"Ilsa Saffe",Sukorejo,"Bluetooth Headphones",Audio,13,80,1040,jcb
+270,2023-02-01,271,"Hanson Reany",Yiqi,"Bluetooth Headphones",Audio,2,80,160,maestro
+290,2022-09-17,291,"Kalindi Skellorne",Obita,"Bluetooth Headphones",Audio,14,80,1120,mastercard
+310,2022-03-22,311,"Jacky Bigrigg",Vinež,"Bluetooth Headphones",Audio,17,80,1360,switch
+330,2022-10-09,331,"Beatrix Chaman",NULL,"Bluetooth Headphones",Audio,10,80,800,jcb
+350,2022-07-28,351,"Taryn Fronczak",Bilalang,"Bluetooth Headphones",Audio,23,80,1840,diners-club-enroute
+370,2022-09-09,371,"Nahum Saleway",Strasbourg,"Bluetooth Headphones",Audio,12,80,960,diners-club-carte-blanche
+390,2022-04-09,391,"Nealy Davids",NULL,"Bluetooth Headphones",Audio,37,80,2960,americanexpress
+410,2022-06-21,411,NULL,Qarshi,"Bluetooth Headphones",Audio,2,80,160,maestro
+430,2023-01-09,431,"Waneta Pletts","Khon Buri","Bluetooth Headphones",Audio,6,80,480,americanexpress
+450,2022-12-02,451,"Tulley Postles",Alindao,"Bluetooth Headphones",Audio,7,80,560,visa
+470,2022-09-02,471,"Gerardo Stickney",Saronída,"Bluetooth Headphones",Audio,48,80,3840,diners-club-enroute
+490,2023-02-02,491,"Hagan Caughtry",Enrekang,"Bluetooth Headphones",Audio,31,80,2480,maestro
+510,2022-05-12,11,"Elliot Hancke",Неготино,"Bluetooth Headphones",Audio,35,80,2800,china-unionpay
+530,2022-11-23,31,"Nataniel Lincey",Luoxiong,"Bluetooth Headphones",Audio,12,80,960,maestro
+550,2022-10-26,51,NULL,"Prince Albert","Bluetooth Headphones",Audio,8,80,640,visa-electron
+570,2022-10-16,71,"Lizzie Domone","Verkhniy Baskunchak","Bluetooth Headphones",Audio,43,80,3440,jcb
+590,2023-02-25,91,"Wanda Gabb",Vilnius,"Bluetooth Headphones",Audio,41,80,3280,instapayment
+610,2022-06-24,111,"Lemar Polycote","Santa Cruz","Bluetooth Headphones",Audio,7,80,560,maestro
+630,NULL,131,"Kiel Lilie",Qamdo,"Bluetooth Headphones",Audio,19,80,1520,jcb
+650,2022-12-17,151,NULL,Fredrikstad,"Bluetooth Headphones",Audio,8,80,640,maestro
+670,2022-11-03,171,"Analiese Gillfillan",Qingzhou,"Bluetooth Headphones",Audio,37,80,2960,instapayment
+690,2022-04-10,191,"Kristina Tomczynski",Jiangna,"Bluetooth Headphones",Audio,46,80,3680,diners-club-enroute
+710,2023-02-27,211,"Kippie Stallibrass",Kärdla,"Bluetooth Headphones",Audio,0,80,0,jcb
+730,2022-07-10,231,"Jdavie Loadsman",Makanya,"Bluetooth Headphones",Audio,26,80,2080,jcb
+750,2022-09-29,251,"Ilsa Saffe",Sukorejo,"Bluetooth Headphones",Audio,6,80,480,jcb
+770,2022-11-07,271,"Hanson Reany",Yiqi,"Bluetooth Headphones",Audio,11,80,880,diners-club-enroute
+790,2022-12-30,291,"Kalindi Skellorne",Obita,"Bluetooth Headphones",Audio,12,80,960,mastercard
+810,NULL,311,"Jacky Bigrigg",Vinež,"Bluetooth Headphones",Audio,42,80,3360,jcb
+830,2022-03-26,331,"Beatrix Chaman",NULL,"Bluetooth Headphones",Audio,42,80,3360,jcb
+850,2023-02-15,351,"Taryn Fronczak",Bilalang,"Bluetooth Headphones",Audio,8,80,640,americanexpress
+870,2022-03-21,371,"Nahum Saleway",Strasbourg,"Bluetooth Headphones",Audio,7,80,560,jcb
+890,2022-06-06,391,"Nealy Davids",NULL,"Bluetooth Headphones",Audio,36,80,2880,diners-club-carte-blanche
+910,2023-02-24,411,NULL,Qarshi,"Bluetooth Headphones",Audio,26,80,2080,NULL
+930,2022-04-26,431,"Waneta Pletts","Khon Buri","Bluetooth Headphones",Audio,39,80,3120,visa-electron
+950,2023-02-04,451,"Tulley Postles",Alindao,"Bluetooth Headphones",Audio,1,80,80,jcb
+970,2022-09-26,471,"Gerardo Stickney",Saronída,"Bluetooth Headphones",Audio,4,80,320,visa-electron
+990,2023-01-25,491,"Hagan Caughtry",Enrekang,"Bluetooth Headphones",Audio,34,80,2720,instapayment
+11,2022-10-30,12,"Farlie Webermann",Boucherville,"Laptop Backpack",Accessories,7,50,350,diners-club-carte-blanche
+31,2022-12-14,32,"Esteban Naldrett","Santa Catalina Norte","Laptop Backpack",Accessories,31,50,1550,jcb
+51,2022-08-25,52,"Myranda Trengove","La Loma","Laptop Backpack",Accessories,23,50,1150,jcb
+71,2022-09-13,72,"Shermie Bodle","Aţ Ţawīlah","Laptop Backpack",Accessories,43,50,2150,visa-electron
+91,2022-03-24,92,"Wendie Huxter",Lushuihe,"Laptop Backpack",Accessories,5,50,250,jcb
+111,NULL,112,"Mauricio Maudett",NULL,"Laptop Backpack",Accessories,50,50,2500,jcb
+131,2023-03-05,132,"Shandeigh McConigal",Kayukembang,"Laptop Backpack",Accessories,18,50,900,jcb
+151,2022-03-30,152,"Sybila Knivett",Carhuac,"Laptop Backpack",Accessories,46,50,2300,mastercard
+171,2022-04-30,172,"Chelsy Gowling",Claresholm,"Laptop Backpack",Accessories,34,50,1700,jcb
+191,2022-09-27,192,"Asher Fromant",Brodarica,"Laptop Backpack",Accessories,18,50,900,jcb
+211,2023-01-20,212,"Cyril Brettelle",NULL,"Laptop Backpack",Accessories,33,50,1650,switch
+231,2022-11-26,232,"Elia Frammingham",Panadura,"Laptop Backpack",Accessories,49,50,2450,bankcard
+251,2023-01-22,252,"Corrinne Ricardo",Pederneiras,"Laptop Backpack",Accessories,17,50,850,bankcard
+271,2022-08-06,272,"Claudian Overshott",Kurnia,"Laptop Backpack",Accessories,13,50,650,bankcard
+291,2022-10-27,292,"Cornall Disman",Tamot,"Laptop Backpack",Accessories,5,50,250,laser
+311,2022-03-24,312,"Tuckie Pappi",Seremban,"Laptop Backpack",Accessories,0,50,0,mastercard
+331,2022-03-21,332,"Cecilia Esgate",Tuhe,"Laptop Backpack",Accessories,13,50,650,switch
+351,2023-01-31,352,"Pascale Munkley",Papër,"Laptop Backpack",Accessories,41,50,2050,jcb
+371,2023-02-21,372,"Ivy Hepher","Fonte de Angeão","Laptop Backpack",Accessories,31,50,1550,switch
+391,2023-02-02,392,NULL,NULL,"Laptop Backpack",Accessories,37,50,1850,jcb
+411,2022-04-19,412,"Cirstoforo Creenan",Saraburi,"Laptop Backpack",Accessories,36,50,1800,solo
+431,2022-04-18,432,"Penrod Howgego","Lat Lum Kaeo","Laptop Backpack",Accessories,0,50,0,mastercard
+451,2022-11-14,452,"Elisabet Gwynn",Zhitang,"Laptop Backpack",Accessories,48,50,2400,mastercard
+471,2023-01-17,472,"Petrina MacKill",NULL,"Laptop Backpack",Accessories,49,50,2450,mastercard
+491,2023-02-18,492,"Vinny Janik",Biaoshan,"Laptop Backpack",Accessories,32,50,1600,instapayment
+511,2023-02-20,12,"Farlie Webermann",Boucherville,"Laptop Backpack",Accessories,15,50,750,diners-club-enroute
+531,2022-05-01,32,"Esteban Naldrett","Santa Catalina Norte","Laptop Backpack",Accessories,0,50,0,jcb
+551,2022-08-03,52,"Myranda Trengove","La Loma","Laptop Backpack",Accessories,18,50,900,switch
+571,2022-06-02,72,"Shermie Bodle","Aţ Ţawīlah","Laptop Backpack",Accessories,7,50,350,diners-club-carte-blanche
+591,2023-03-11,92,"Wendie Huxter",Lushuihe,"Laptop Backpack",Accessories,0,50,0,NULL
+611,2022-11-18,112,"Mauricio Maudett",NULL,"Laptop Backpack",Accessories,39,50,1950,visa-electron
+631,NULL,132,"Shandeigh McConigal",Kayukembang,"Laptop Backpack",Accessories,35,50,1750,jcb
+651,NULL,152,"Sybila Knivett",Carhuac,"Laptop Backpack",Accessories,0,50,0,jcb
+671,2022-08-11,172,"Chelsy Gowling",Claresholm,"Laptop Backpack",Accessories,0,50,0,jcb
+691,2022-10-28,192,"Asher Fromant",Brodarica,"Laptop Backpack",Accessories,24,50,1200,jcb
+711,NULL,212,"Cyril Brettelle",NULL,"Laptop Backpack",Accessories,50,50,2500,bankcard
+731,2022-03-27,232,"Elia Frammingham",Panadura,"Laptop Backpack",Accessories,2,50,100,jcb
+751,2022-08-04,252,"Corrinne Ricardo",Pederneiras,"Laptop Backpack",Accessories,4,50,200,americanexpress
+771,2023-03-11,272,"Claudian Overshott",Kurnia,"Laptop Backpack",Accessories,0,50,0,jcb
+791,2022-07-07,292,"Cornall Disman",Tamot,"Laptop Backpack",Accessories,23,50,1150,china-unionpay
+811,2022-12-26,312,"Tuckie Pappi",Seremban,"Laptop Backpack",Accessories,41,50,2050,jcb
+831,2022-06-12,332,"Cecilia Esgate",Tuhe,"Laptop Backpack",Accessories,10,50,500,maestro
+851,2022-09-02,352,"Pascale Munkley",Papër,"Laptop Backpack",Accessories,43,50,2150,visa-electron
+871,2022-11-21,372,"Ivy Hepher","Fonte de Angeão","Laptop Backpack",Accessories,46,50,2300,maestro
+891,2022-11-08,392,NULL,NULL,"Laptop Backpack",Accessories,44,50,2200,jcb
+911,2022-06-28,412,"Cirstoforo Creenan",Saraburi,"Laptop Backpack",Accessories,18,50,900,jcb
+931,2022-10-09,432,"Penrod Howgego","Lat Lum Kaeo","Laptop Backpack",Accessories,14,50,700,china-unionpay
+951,2022-06-21,452,"Elisabet Gwynn",Zhitang,"Laptop Backpack",Accessories,43,50,2150,laser
+971,2022-11-12,472,"Petrina MacKill",NULL,"Laptop Backpack",Accessories,25,50,1250,visa
+991,2023-02-24,492,"Vinny Janik",Biaoshan,"Laptop Backpack",Accessories,46,50,2300,maestro
+12,2022-04-28,13,"Blinny Scoyne",Kuta,"Kale & Quinoa Salad Mix","Food - Salads",30,4,120,jcb
+32,2022-06-29,33,"Rand Van Brug",Preko,"Kale & Quinoa Salad Mix","Food - Salads",23,4,92,jcb
+52,2022-12-24,53,"Marcella Sinncock",Lidingö,"Kale & Quinoa Salad Mix","Food - Salads",14,4,56,switch
+72,2022-10-28,73,"Cyrillus Messenger",Boneng,"Kale & Quinoa Salad Mix","Food - Salads",16,4,64,maestro
+92,2022-05-28,93,"Minda Bush",NULL,"Kale & Quinoa Salad Mix","Food - Salads",33,4,132,switch
+112,2022-06-04,113,"Claybourne McVeagh",Rumelange,"Kale & Quinoa Salad Mix","Food - Salads",5,4,20,NULL
+132,2022-05-30,133,"Shanie Armell",Kutapanjang,"Kale & Quinoa Salad Mix","Food - Salads",13,4,52,switch
+152,2022-12-15,153,"Harman Saltern",Maleevsk,"Kale & Quinoa Salad Mix","Food - Salads",10,4,40,maestro
+172,2022-08-17,173,"Sonnnie de Broke",Tripoli,"Kale & Quinoa Salad Mix","Food - Salads",35,4,140,jcb
+192,2022-12-06,193,"Franni Paler",Illela,"Kale & Quinoa Salad Mix","Food - Salads",38,4,152,laser
+212,2022-08-20,213,"Mignonne Poulett",Gubskaya,"Kale & Quinoa Salad Mix","Food - Salads",44,4,176,instapayment
+232,2023-03-13,233,"Karalee Fielden",Kemijärvi,"Kale & Quinoa Salad Mix","Food - Salads",0,4,0,china-unionpay
+252,2022-09-22,253,"Delmore Bowne",Guay,"Kale & Quinoa Salad Mix","Food - Salads",6,4,24,switch
+272,2023-02-10,273,"Marlowe Kingett",Tambaú,"Kale & Quinoa Salad Mix","Food - Salads",25,4,100,jcb
+292,2022-12-24,293,"Bengt Leneham",Saint-Chamond,"Kale & Quinoa Salad Mix","Food - Salads",39,4,156,mastercard
+312,2022-08-26,313,"Ari Stanfield",Triandría,"Kale & Quinoa Salad Mix","Food - Salads",7,4,28,bankcard
+332,2022-10-04,333,"Mort MacCroary",Seltjarnarnes,"Kale & Quinoa Salad Mix","Food - Salads",38,4,152,jcb
+352,2023-01-19,353,"Drew McKernan","Kout na Šumavě","Kale & Quinoa Salad Mix","Food - Salads",10,4,40,jcb
+372,2022-06-28,373,"Sheryl Kieran",Rosthern,"Kale & Quinoa Salad Mix","Food - Salads",50,4,200,maestro
+392,2022-11-14,393,"Aron O'Brogane",Qŭshkŭpir,"Kale & Quinoa Salad Mix","Food - Salads",48,4,192,mastercard
+412,2022-11-19,413,"Petrina Sarll",Hunkuyi,"Kale & Quinoa Salad Mix","Food - Salads",43,4,172,jcb
+432,2022-04-07,433,"Hamnet Turfes",Kawambwa,"Kale & Quinoa Salad Mix","Food - Salads",8,4,32,mastercard
+452,2023-01-29,453,"Rolph Seer","Le Puy-en-Velay","Kale & Quinoa Salad Mix","Food - Salads",10,4,40,jcb
+472,2022-12-26,473,"Gertruda Assiter",Lanhe,"Kale & Quinoa Salad Mix","Food - Salads",50,4,200,maestro
+492,2022-05-24,493,"Farris Stearn",Simunul,"Kale & Quinoa Salad Mix","Food - Salads",5,4,20,mastercard
+512,2022-05-24,13,"Blinny Scoyne",Kuta,"Kale & Quinoa Salad Mix","Food - Salads",45,4,180,diners-club-us-ca
+532,2022-04-09,33,"Rand Van Brug",Preko,"Kale & Quinoa Salad Mix","Food - Salads",31,4,124,bankcard
+552,2022-10-26,53,"Marcella Sinncock",Lidingö,"Kale & Quinoa Salad Mix","Food - Salads",10,4,40,jcb
+572,2022-04-21,73,"Cyrillus Messenger",Boneng,"Kale & Quinoa Salad Mix","Food - Salads",2,4,8,mastercard
+592,2022-10-14,93,"Minda Bush",NULL,"Kale & Quinoa Salad Mix","Food - Salads",24,4,96,jcb
+612,2022-05-19,113,"Claybourne McVeagh",Rumelange,"Kale & Quinoa Salad Mix","Food - Salads",33,4,132,switch
+632,2022-03-26,133,"Shanie Armell",Kutapanjang,"Kale & Quinoa Salad Mix","Food - Salads",49,4,196,jcb
+652,2022-04-10,153,"Harman Saltern",Maleevsk,"Kale & Quinoa Salad Mix","Food - Salads",34,4,136,maestro
+672,2022-07-23,173,"Sonnnie de Broke",Tripoli,"Kale & Quinoa Salad Mix","Food - Salads",7,4,28,mastercard
+692,2022-05-31,193,"Franni Paler",Illela,"Kale & Quinoa Salad Mix","Food - Salads",37,4,148,mastercard
+712,2022-11-15,213,"Mignonne Poulett",Gubskaya,"Kale & Quinoa Salad Mix","Food - Salads",4,4,16,visa-electron
+732,NULL,233,"Karalee Fielden",Kemijärvi,"Kale & Quinoa Salad Mix","Food - Salads",35,4,140,jcb
+752,2023-01-20,253,"Delmore Bowne",Guay,"Kale & Quinoa Salad Mix","Food - Salads",1,4,4,laser
+772,2022-04-13,273,"Marlowe Kingett",Tambaú,"Kale & Quinoa Salad Mix","Food - Salads",20,4,80,switch
+792,2022-05-05,293,"Bengt Leneham",Saint-Chamond,"Kale & Quinoa Salad Mix","Food - Salads",36,4,144,switch
+812,2022-04-13,313,"Ari Stanfield",Triandría,"Kale & Quinoa Salad Mix","Food - Salads",48,4,192,jcb
+832,2022-11-19,333,"Mort MacCroary",Seltjarnarnes,"Kale & Quinoa Salad Mix","Food - Salads",18,4,72,NULL
+852,2023-01-20,353,"Drew McKernan","Kout na Šumavě","Kale & Quinoa Salad Mix","Food - Salads",4,4,16,diners-club-enroute
+872,2022-05-23,373,"Sheryl Kieran",Rosthern,"Kale & Quinoa Salad Mix","Food - Salads",7,4,28,jcb
+892,2022-08-22,393,"Aron O'Brogane",Qŭshkŭpir,"Kale & Quinoa Salad Mix","Food - Salads",10,4,40,diners-club-carte-blanche
+912,2022-03-31,413,"Petrina Sarll",Hunkuyi,"Kale & Quinoa Salad Mix","Food - Salads",25,4,100,bankcard
+932,2022-10-21,433,"Hamnet Turfes",Kawambwa,"Kale & Quinoa Salad Mix","Food - Salads",28,4,112,jcb
+952,2023-02-25,453,"Rolph Seer","Le Puy-en-Velay","Kale & Quinoa Salad Mix","Food - Salads",20,4,80,jcb
+972,2022-05-31,473,"Gertruda Assiter",Lanhe,"Kale & Quinoa Salad Mix","Food - Salads",21,4,84,jcb
+992,2022-11-06,493,"Farris Stearn",Simunul,"Kale & Quinoa Salad Mix","Food - Salads",0,4,0,jcb
+13,2023-03-15,14,"Randie Barreau","Banjar Bengkelgede","Black Bean & Corn Salad","Food - Salads",19,4,76,maestro
+33,2022-06-03,34,"Jeremie Bearham",NULL,"Black Bean & Corn Salad","Food - Salads",1,4,4,jcb
+53,2022-05-26,54,"Olvan Weetch","Sa Kaeo","Black Bean & Corn Salad","Food - Salads",30,4,120,instapayment
+73,2022-06-17,74,"Angel Bramont",Tsurusaki,"Black Bean & Corn Salad","Food - Salads",23,4,92,diners-club-carte-blanche
+93,2022-08-08,94,"Illa Beloe",Blobo,"Black Bean & Corn Salad","Food - Salads",26,4,104,bankcard
+113,2023-01-15,114,"Hoyt Croix","Al Faḩāḩīl","Black Bean & Corn Salad","Food - Salads",45,4,180,mastercard
+133,2022-03-27,134,"Ileana Worsnap",Indralayang,"Black Bean & Corn Salad","Food - Salads",36,4,144,jcb
+153,2023-03-03,154,"Roldan Leverentz",Neni,"Black Bean & Corn Salad","Food - Salads",44,4,176,americanexpress
+173,2022-05-11,174,"Josie Latey",Petäjävesi,"Black Bean & Corn Salad","Food - Salads",50,4,200,maestro
+193,2022-04-09,194,"Natty Vedstra",Sanom,"Black Bean & Corn Salad","Food - Salads",14,4,56,jcb
+213,2022-12-19,214,"Deedee Tester",Cela,"Black Bean & Corn Salad","Food - Salads",19,4,76,mastercard
+233,2022-05-28,234,"Randee Cicchitello",Lingkou,"Black Bean & Corn Salad","Food - Salads",35,4,140,maestro
+253,2023-02-17,254,"Robin Spillman",Pysznica,"Black Bean & Corn Salad","Food - Salads",24,4,96,maestro
+273,2022-09-13,274,"Denys Ramsted",Katoro,"Black Bean & Corn Salad","Food - Salads",37,4,148,maestro
+293,2022-04-12,294,"Carolus Haseman",Aourir,"Black Bean & Corn Salad","Food - Salads",16,4,64,visa
+313,2022-11-15,314,"Isidro Carman",Zhangjiawan,"Black Bean & Corn Salad","Food - Salads",20,4,80,jcb
+333,NULL,334,"Demeter Kochel",Yermish’,"Black Bean & Corn Salad","Food - Salads",0,4,0,jcb
+353,2022-08-21,354,"Spencer Robbins",Kanda,"Black Bean & Corn Salad","Food - Salads",18,4,72,maestro
+373,2022-07-22,374,"Nevile Brookwell",Pangguang,"Black Bean & Corn Salad","Food - Salads",47,4,188,jcb
+393,2022-11-21,394,"Rheta Cullrford","Granja do Tedo","Black Bean & Corn Salad","Food - Salads",13,4,52,americanexpress
+413,2022-12-03,414,"Chryste Ivancevic",Hernani,"Black Bean & Corn Salad","Food - Salads",15,4,60,jcb
+433,2022-04-09,434,"Emmi Lawlee",Hedong,"Black Bean & Corn Salad","Food - Salads",16,4,64,jcb
+453,2022-05-13,454,"Helena Cordobes",NULL,"Black Bean & Corn Salad","Food - Salads",50,4,200,diners-club-enroute
+473,2022-06-08,474,"Ardeen Morter",Dordrecht,"Black Bean & Corn Salad","Food - Salads",10,4,40,jcb
+493,2023-03-14,494,"Fidelia Gartside",NULL,"Black Bean & Corn Salad","Food - Salads",33,4,132,china-unionpay
+513,2022-07-07,14,"Randie Barreau","Banjar Bengkelgede","Black Bean & Corn Salad","Food - Salads",37,4,148,diners-club-carte-blanche
+533,2022-05-09,34,"Jeremie Bearham",NULL,"Black Bean & Corn Salad","Food - Salads",25,4,100,NULL
+553,2022-03-28,54,"Olvan Weetch","Sa Kaeo","Black Bean & Corn Salad","Food - Salads",12,4,48,solo
+573,2022-07-27,74,"Angel Bramont",Tsurusaki,"Black Bean & Corn Salad","Food - Salads",36,4,144,NULL
+593,2022-08-03,94,"Illa Beloe",Blobo,"Black Bean & Corn Salad","Food - Salads",32,4,128,jcb
+613,2023-02-19,114,"Hoyt Croix","Al Faḩāḩīl","Black Bean & Corn Salad","Food - Salads",38,4,152,NULL
+633,2022-11-06,134,"Ileana Worsnap",Indralayang,"Black Bean & Corn Salad","Food - Salads",37,4,148,switch
+653,2022-08-11,154,"Roldan Leverentz",Neni,"Black Bean & Corn Salad","Food - Salads",37,4,148,china-unionpay
+673,2022-09-05,174,"Josie Latey",Petäjävesi,"Black Bean & Corn Salad","Food - Salads",7,4,28,mastercard
+693,2023-02-08,194,"Natty Vedstra",Sanom,"Black Bean & Corn Salad","Food - Salads",41,4,164,jcb
+713,2022-05-06,214,"Deedee Tester",Cela,"Black Bean & Corn Salad","Food - Salads",36,4,144,jcb
+733,2023-02-11,234,"Randee Cicchitello",Lingkou,"Black Bean & Corn Salad","Food - Salads",0,4,0,laser
+753,2022-08-05,254,"Robin Spillman",Pysznica,"Black Bean & Corn Salad","Food - Salads",28,4,112,instapayment
+773,2022-07-03,274,"Denys Ramsted",Katoro,"Black Bean & Corn Salad","Food - Salads",10,4,40,jcb
+793,2022-06-28,294,"Carolus Haseman",Aourir,"Black Bean & Corn Salad","Food - Salads",43,4,172,jcb
+813,2022-06-11,314,"Isidro Carman",Zhangjiawan,"Black Bean & Corn Salad","Food - Salads",18,4,72,maestro
+833,2022-05-19,334,"Demeter Kochel",Yermish’,"Black Bean & Corn Salad","Food - Salads",41,4,164,jcb
+853,2023-02-11,354,"Spencer Robbins",Kanda,"Black Bean & Corn Salad","Food - Salads",44,4,176,jcb
+873,2022-08-29,374,"Nevile Brookwell",Pangguang,"Black Bean & Corn Salad","Food - Salads",37,4,148,mastercard
+893,2022-10-30,394,"Rheta Cullrford","Granja do Tedo","Black Bean & Corn Salad","Food - Salads",12,4,48,jcb
+913,2022-08-12,414,"Chryste Ivancevic",Hernani,"Black Bean & Corn Salad","Food - Salads",25,4,100,china-unionpay
+933,2022-06-26,434,"Emmi Lawlee",Hedong,"Black Bean & Corn Salad","Food - Salads",44,4,176,mastercard
+953,2022-08-28,454,"Helena Cordobes",NULL,"Black Bean & Corn Salad","Food - Salads",0,4,0,solo
+973,2022-09-28,474,"Ardeen Morter",Dordrecht,"Black Bean & Corn Salad","Food - Salads",14,4,56,jcb
+993,2023-01-05,494,"Fidelia Gartside",NULL,"Black Bean & Corn Salad","Food - Salads",26,4,104,jcb
+14,2022-03-16,15,NULL,Mao’ershan,"Gardening Tools Set",Garden,43,45,1935,maestro
+34,2022-06-11,35,"Clyde Chape",Nempel,"Gardening Tools Set",Garden,48,45,2160,jcb
+54,2022-08-15,55,"Augustine Lanahan",Prinza,"Gardening Tools Set",Garden,2,45,90,china-unionpay
+74,2022-11-16,75,"Thekla Cheesley",Kačanik,"Gardening Tools Set",Garden,33,45,1485,mastercard
+94,2023-01-01,95,NULL,Nagorsk,"Gardening Tools Set",Garden,21,45,945,jcb
+114,2022-05-16,115,"Bartie Scamp",Hasaki,"Gardening Tools Set",Garden,4,45,180,NULL
+134,2022-11-16,135,"Camey Reynard",Doetinchem,"Gardening Tools Set",Garden,35,45,1575,jcb
+154,2022-04-17,155,"Cosmo Farragher",Martin,"Gardening Tools Set",Garden,41,45,1845,jcb
+174,2022-04-03,175,"Raddie Lesurf",Heshui,"Gardening Tools Set",Garden,11,45,495,jcb
+194,2023-02-27,195,"Linoel Yggo","Manzil Bū Zalafah","Gardening Tools Set",Garden,10,45,450,jcb
+214,2022-09-03,215,"Keelby Scaddon",Lodoyo,"Gardening Tools Set",Garden,15,45,675,switch
+234,2022-04-10,235,"Merilyn Bravery",Quimbaya,"Gardening Tools Set",Garden,35,45,1575,switch
+254,2022-06-03,255,NULL,Piedecuesta,"Gardening Tools Set",Garden,24,45,1080,NULL
+274,2022-11-10,275,"Irvine Doherty",Conchagua,"Gardening Tools Set",Garden,50,45,2250,jcb
+294,2022-07-10,295,"Flin MacGaughie",Cuenca,"Gardening Tools Set",Garden,48,45,2160,jcb
+314,2022-04-13,315,"Corette South",Yantianhe,"Gardening Tools Set",Garden,7,45,315,NULL
+334,2022-07-14,335,"Edin Blacker",Rybnoye,"Gardening Tools Set",Garden,36,45,1620,jcb
+354,NULL,355,"Cora Cohalan",Vinha,"Gardening Tools Set",Garden,20,45,900,jcb
+374,2022-09-19,375,"Charlena Barnhill",Bududa,"Gardening Tools Set",Garden,19,45,855,jcb
+394,2022-03-17,395,"Francyne Stratz",Pulap,"Gardening Tools Set",Garden,28,45,1260,mastercard
+414,2022-03-28,415,"Merla Oxtoby",NULL,"Gardening Tools Set",Garden,18,45,810,visa
+434,2022-10-04,435,"Remington Byers",NULL,"Gardening Tools Set",Garden,32,45,1440,solo
+454,NULL,455,"Tricia Feary",Wolowona,"Gardening Tools Set",Garden,49,45,2205,diners-club-us-ca
+474,2022-08-11,475,"Pansie Gernier","Capão da Canoa","Gardening Tools Set",Garden,13,45,585,instapayment
+494,2023-02-18,495,"Bennett Dudin","La Victoria","Gardening Tools Set",Garden,0,45,0,bankcard
+514,2023-02-07,15,NULL,Mao’ershan,"Gardening Tools Set",Garden,30,45,1350,NULL
+534,2022-10-04,35,"Clyde Chape",Nempel,"Gardening Tools Set",Garden,41,45,1845,diners-club-enroute
+554,2022-08-02,55,"Augustine Lanahan",Prinza,"Gardening Tools Set",Garden,0,45,0,bankcard
+574,2022-06-03,75,"Thekla Cheesley",Kačanik,"Gardening Tools Set",Garden,48,45,2160,switch
+594,2022-05-27,95,NULL,Nagorsk,"Gardening Tools Set",Garden,20,45,900,NULL
+614,2022-06-10,115,"Bartie Scamp",Hasaki,"Gardening Tools Set",Garden,3,45,135,jcb
+634,2022-03-30,135,"Camey Reynard",Doetinchem,"Gardening Tools Set",Garden,7,45,315,visa-electron
+654,2022-06-11,155,"Cosmo Farragher",Martin,"Gardening Tools Set",Garden,9,45,405,instapayment
+674,2023-02-26,175,"Raddie Lesurf",Heshui,"Gardening Tools Set",Garden,23,45,1035,instapayment
+694,2022-08-12,195,"Linoel Yggo","Manzil Bū Zalafah","Gardening Tools Set",Garden,47,45,2115,diners-club-carte-blanche
+714,NULL,215,"Keelby Scaddon",Lodoyo,"Gardening Tools Set",Garden,28,45,1260,jcb
+734,2022-06-22,235,"Merilyn Bravery",Quimbaya,"Gardening Tools Set",Garden,15,45,675,bankcard
+754,2022-04-13,255,NULL,Piedecuesta,"Gardening Tools Set",Garden,7,45,315,jcb
+774,2023-02-14,275,"Irvine Doherty",Conchagua,"Gardening Tools Set",Garden,0,45,0,visa
+794,2022-10-29,295,"Flin MacGaughie",Cuenca,"Gardening Tools Set",Garden,49,45,2205,switch
+814,2023-02-22,315,"Corette South",Yantianhe,"Gardening Tools Set",Garden,13,45,585,jcb
+834,2023-03-06,335,"Edin Blacker",Rybnoye,"Gardening Tools Set",Garden,2,45,90,jcb
+854,2022-03-20,355,"Cora Cohalan",Vinha,"Gardening Tools Set",Garden,48,45,2160,instapayment
+874,2022-09-14,375,"Charlena Barnhill",Bududa,"Gardening Tools Set",Garden,38,45,1710,jcb
+894,2023-02-21,395,"Francyne Stratz",Pulap,"Gardening Tools Set",Garden,30,45,1350,diners-club-enroute
+914,2022-08-19,415,"Merla Oxtoby",NULL,"Gardening Tools Set",Garden,38,45,1710,jcb
+934,2022-10-26,435,"Remington Byers",NULL,"Gardening Tools Set",Garden,44,45,1980,maestro
+954,2023-01-21,455,"Tricia Feary",Wolowona,"Gardening Tools Set",Garden,43,45,1935,visa-electron
+974,2022-10-24,475,"Pansie Gernier","Capão da Canoa","Gardening Tools Set",Garden,34,45,1530,jcb
+994,2022-09-29,495,"Bennett Dudin","La Victoria","Gardening Tools Set",Garden,14,45,630,diners-club-enroute
+15,2022-07-12,16,"Giovanna Headly",NULL,"Weighted Jump Rope with Counter",Fitness,4,15,60,visa
+35,2022-04-23,36,"Viviene Assiratti",Nybro,"Weighted Jump Rope with Counter",Fitness,38,15,570,jcb
+55,2023-01-12,56,"Hilton Courtese",Vol’no-Nadezhdinskoye,"Weighted Jump Rope with Counter",Fitness,30,15,450,jcb
+75,2022-07-08,76,"Murdock Abdey",NULL,"Weighted Jump Rope with Counter",Fitness,49,15,735,jcb
+95,2022-10-13,96,"Melinda Blindt",NULL,"Weighted Jump Rope with Counter",Fitness,19,15,285,jcb
+115,2022-11-28,116,"Geralda Sagg",Koceljeva,"Weighted Jump Rope with Counter",Fitness,21,15,315,jcb
+135,2022-04-25,136,"Mic Aingel","Al Ḩāmūl","Weighted Jump Rope with Counter",Fitness,32,15,480,NULL
+155,2022-07-24,156,"Thia Tickel",Matiao,"Weighted Jump Rope with Counter",Fitness,36,15,540,jcb
+175,2022-06-20,176,"Helenelizabeth Yair",Tianyuan,"Weighted Jump Rope with Counter",Fitness,35,15,525,switch
+195,2022-07-30,196,"Aldwin Binning",Novokayakent,"Weighted Jump Rope with Counter",Fitness,11,15,165,NULL
+215,2023-01-22,216,"Beryl Reddel",NULL,"Weighted Jump Rope with Counter",Fitness,8,15,120,laser
+235,2022-07-17,236,"Patrick Howler",Donetsk,"Weighted Jump Rope with Counter",Fitness,22,15,330,jcb
+255,2022-04-09,256,"Roosevelt Colvine",Poli,"Weighted Jump Rope with Counter",Fitness,0,15,0,instapayment
+275,2022-12-22,276,"Angela Lefort",Pendiqing,"Weighted Jump Rope with Counter",Fitness,0,15,0,americanexpress
+295,2022-04-17,296,"Eddi Baptist",Molina,"Weighted Jump Rope with Counter",Fitness,33,15,495,jcb
+315,2023-01-08,316,"Stearn Dellenbrok",Matamey,"Weighted Jump Rope with Counter",Fitness,15,15,225,jcb
+335,2022-11-06,336,"Lona Stonier",Sokal’,"Weighted Jump Rope with Counter",Fitness,10,15,150,jcb
+355,2023-01-01,356,"Genny Cowperthwaite",Bakadagy,"Weighted Jump Rope with Counter",Fitness,3,15,45,instapayment
+375,2022-11-13,376,"Ives Bourgourd",Krasnokamsk,"Weighted Jump Rope with Counter",Fitness,49,15,735,jcb
+395,2022-04-26,396,"Nollie Liggett","Gornji Petrovci","Weighted Jump Rope with Counter",Fitness,15,15,225,diners-club-carte-blanche
+415,2022-09-23,416,NULL,"Phlapphla Chai","Weighted Jump Rope with Counter",Fitness,26,15,390,instapayment
+435,2022-10-15,436,"Shane Stubbings","Santa Rosa","Weighted Jump Rope with Counter",Fitness,14,15,210,china-unionpay
+455,2022-05-12,456,NULL,Yazd,"Weighted Jump Rope with Counter",Fitness,0,15,0,diners-club-enroute
+475,2023-01-13,476,"Fanny Brumbye",Jiaocun,"Weighted Jump Rope with Counter",Fitness,39,15,585,diners-club-carte-blanche
+495,2022-04-02,496,"Lenci Rzehor",Lyakhovtsy,"Weighted Jump Rope with Counter",Fitness,0,15,0,americanexpress
+515,2022-12-29,16,"Giovanna Headly",NULL,"Weighted Jump Rope with Counter",Fitness,24,15,360,diners-club-enroute
+535,2022-12-15,36,"Viviene Assiratti",Nybro,"Weighted Jump Rope with Counter",Fitness,39,15,585,instapayment
+555,2022-04-29,56,"Hilton Courtese",Vol’no-Nadezhdinskoye,"Weighted Jump Rope with Counter",Fitness,20,15,300,jcb
+575,2022-07-28,76,"Murdock Abdey",NULL,"Weighted Jump Rope with Counter",Fitness,22,15,330,diners-club-us-ca
+595,2022-08-08,96,"Melinda Blindt",NULL,"Weighted Jump Rope with Counter",Fitness,38,15,570,bankcard
+615,2022-09-21,116,"Geralda Sagg",Koceljeva,"Weighted Jump Rope with Counter",Fitness,0,15,0,jcb
+635,2022-08-09,136,"Mic Aingel","Al Ḩāmūl","Weighted Jump Rope with Counter",Fitness,49,15,735,maestro
+655,2022-03-20,156,"Thia Tickel",Matiao,"Weighted Jump Rope with Counter",Fitness,9,15,135,maestro
+675,2022-07-14,176,"Helenelizabeth Yair",Tianyuan,"Weighted Jump Rope with Counter",Fitness,31,15,465,jcb
+695,2022-06-27,196,"Aldwin Binning",Novokayakent,"Weighted Jump Rope with Counter",Fitness,33,15,495,maestro
+715,2022-12-22,216,"Beryl Reddel",NULL,"Weighted Jump Rope with Counter",Fitness,0,15,0,jcb
+735,2022-07-17,236,"Patrick Howler",Donetsk,"Weighted Jump Rope with Counter",Fitness,28,15,420,maestro
+755,NULL,256,"Roosevelt Colvine",Poli,"Weighted Jump Rope with Counter",Fitness,45,15,675,jcb
+775,2022-12-17,276,"Angela Lefort",Pendiqing,"Weighted Jump Rope with Counter",Fitness,17,15,255,visa-electron
+795,2023-01-23,296,"Eddi Baptist",Molina,"Weighted Jump Rope with Counter",Fitness,50,15,750,jcb
+815,2022-08-22,316,"Stearn Dellenbrok",Matamey,"Weighted Jump Rope with Counter",Fitness,24,15,360,laser
+835,2022-11-22,336,"Lona Stonier",Sokal’,"Weighted Jump Rope with Counter",Fitness,18,15,270,jcb
+855,2023-01-18,356,"Genny Cowperthwaite",Bakadagy,"Weighted Jump Rope with Counter",Fitness,31,15,465,visa-electron
+875,2022-04-04,376,"Ives Bourgourd",Krasnokamsk,"Weighted Jump Rope with Counter",Fitness,45,15,675,jcb
+895,2022-06-16,396,"Nollie Liggett","Gornji Petrovci","Weighted Jump Rope with Counter",Fitness,19,15,285,jcb
+915,2022-11-30,416,NULL,"Phlapphla Chai","Weighted Jump Rope with Counter",Fitness,37,15,555,bankcard
+935,2022-12-24,436,"Shane Stubbings","Santa Rosa","Weighted Jump Rope with Counter",Fitness,7,15,105,americanexpress
+955,2022-05-13,456,NULL,Yazd,"Weighted Jump Rope with Counter",Fitness,31,15,465,jcb
+975,NULL,476,"Fanny Brumbye",Jiaocun,"Weighted Jump Rope with Counter",Fitness,15,15,225,diners-club-carte-blanche
+995,2022-10-23,496,"Lenci Rzehor",Lyakhovtsy,"Weighted Jump Rope with Counter",Fitness,28,15,420,jcb
+16,2022-10-14,17,"Esmaria Winsor","Krajan Dukuhseti","Butternut Squash Soup","Food - Soups",3,3,9,diners-club-enroute
+36,2022-06-05,37,"Martita Goacher",Ballylinan,"Butternut Squash Soup","Food - Soups",5,3,15,visa-electron
+56,2022-04-23,57,"Maxwell Wooles","Las Vegas","Butternut Squash Soup","Food - Soups",0,3,0,maestro
+76,2022-05-14,77,"Dorian Bottomley",Tianya,"Butternut Squash Soup","Food - Soups",12,3,36,americanexpress
+96,2022-12-22,97,"Lucita Sapauton",Guangshun,"Butternut Squash Soup","Food - Soups",20,3,60,jcb
+116,2022-04-03,117,NULL,Shreveport,"Butternut Squash Soup","Food - Soups",20,3,60,bankcard
+136,2022-11-24,137,"Lucais Gatehouse",Nūbā,"Butternut Squash Soup","Food - Soups",0,3,0,visa
+156,2022-04-13,157,"Gregoire Casini",Nanyuan,"Butternut Squash Soup","Food - Soups",35,3,105,bankcard
+176,NULL,177,"Reena Avrahamov",Sepit,"Butternut Squash Soup","Food - Soups",42,3,126,NULL
+196,2023-01-31,197,"Cornelle Dinneges","Baytā al Fawqā","Butternut Squash Soup","Food - Soups",31,3,93,switch
+216,2022-12-19,217,"Tye Fannon",Urus-Martan,"Butternut Squash Soup","Food - Soups",10,3,30,mastercard
+236,2022-09-04,237,"Zeb Beven",Guéret,"Butternut Squash Soup","Food - Soups",15,3,45,mastercard
+256,2022-12-20,257,"Van Phillcock","Al Ḩāḑir","Butternut Squash Soup","Food - Soups",38,3,114,jcb
+276,2023-03-12,277,"Cassi Merrill",Baleal,"Butternut Squash Soup","Food - Soups",13,3,39,visa-electron
+296,2022-08-24,297,"Quintus Mattioni",Hefu,"Butternut Squash Soup","Food - Soups",13,3,39,mastercard
+316,2023-02-06,317,"Bert Cherry",NULL,"Butternut Squash Soup","Food - Soups",40,3,120,china-unionpay
+336,2022-09-27,337,"Cornell Byforth",Kil,"Butternut Squash Soup","Food - Soups",7,3,21,diners-club-enroute
+356,2022-04-21,357,"Augustine Posselow",Huangbei,"Butternut Squash Soup","Food - Soups",14,3,42,NULL
+376,2022-11-25,377,"Isidro Northing",Dragash,"Butternut Squash Soup","Food - Soups",4,3,12,maestro
+396,2022-11-08,397,"Thalia Quickenden",Semikarakorsk,"Butternut Squash Soup","Food - Soups",39,3,117,visa
+416,NULL,417,"Zacharia Cavan",Kaytitinga,"Butternut Squash Soup","Food - Soups",27,3,81,visa-electron
+436,2022-05-14,437,"Ches Fenney","Phúc Yên","Butternut Squash Soup","Food - Soups",27,3,81,jcb
+456,2023-02-25,457,"Jarvis Maciejewski",Nossebro,"Butternut Squash Soup","Food - Soups",22,3,66,switch
+476,2023-02-05,477,NULL,Bintang,"Butternut Squash Soup","Food - Soups",31,3,93,jcb
+496,2023-03-14,497,"Hyman Desantis",Aras-asan,"Butternut Squash Soup","Food - Soups",11,3,33,china-unionpay
+516,2022-06-05,17,"Esmaria Winsor","Krajan Dukuhseti","Butternut Squash Soup","Food - Soups",6,3,18,diners-club-carte-blanche
+536,2022-12-17,37,"Martita Goacher",Ballylinan,"Butternut Squash Soup","Food - Soups",23,3,69,jcb
+556,2022-08-12,57,"Maxwell Wooles","Las Vegas","Butternut Squash Soup","Food - Soups",25,3,75,jcb
+576,2022-09-06,77,"Dorian Bottomley",Tianya,"Butternut Squash Soup","Food - Soups",4,3,12,jcb
+596,2022-11-18,97,"Lucita Sapauton",Guangshun,"Butternut Squash Soup","Food - Soups",1,3,3,jcb
+616,2023-01-21,117,NULL,Shreveport,"Butternut Squash Soup","Food - Soups",15,3,45,maestro
+636,2022-10-13,137,"Lucais Gatehouse",Nūbā,"Butternut Squash Soup","Food - Soups",38,3,114,jcb
+656,2022-05-15,157,"Gregoire Casini",Nanyuan,"Butternut Squash Soup","Food - Soups",47,3,141,jcb
+676,2022-05-09,177,"Reena Avrahamov",Sepit,"Butternut Squash Soup","Food - Soups",23,3,69,diners-club-carte-blanche
+696,2022-04-09,197,"Cornelle Dinneges","Baytā al Fawqā","Butternut Squash Soup","Food - Soups",11,3,33,jcb
+716,2022-08-23,217,"Tye Fannon",Urus-Martan,"Butternut Squash Soup","Food - Soups",34,3,102,visa
+736,NULL,237,"Zeb Beven",Guéret,"Butternut Squash Soup","Food - Soups",36,3,108,jcb
+756,2022-08-08,257,"Van Phillcock","Al Ḩāḑir","Butternut Squash Soup","Food - Soups",17,3,51,china-unionpay
+776,2022-03-21,277,"Cassi Merrill",Baleal,"Butternut Squash Soup","Food - Soups",22,3,66,jcb
+796,2022-11-21,297,"Quintus Mattioni",Hefu,"Butternut Squash Soup","Food - Soups",27,3,81,mastercard
+816,2023-02-15,317,"Bert Cherry",NULL,"Butternut Squash Soup","Food - Soups",22,3,66,bankcard
+836,2022-07-13,337,"Cornell Byforth",Kil,"Butternut Squash Soup","Food - Soups",13,3,39,jcb
+856,2022-12-03,357,"Augustine Posselow",Huangbei,"Butternut Squash Soup","Food - Soups",44,3,132,jcb
+876,2022-08-01,377,"Isidro Northing",Dragash,"Butternut Squash Soup","Food - Soups",5,3,15,switch
+896,2023-03-01,397,"Thalia Quickenden",Semikarakorsk,"Butternut Squash Soup","Food - Soups",18,3,54,jcb
+916,2022-08-13,417,"Zacharia Cavan",Kaytitinga,"Butternut Squash Soup","Food - Soups",26,3,78,china-unionpay
+936,2022-07-26,437,"Ches Fenney","Phúc Yên","Butternut Squash Soup","Food - Soups",21,3,63,china-unionpay
+956,2022-09-19,457,"Jarvis Maciejewski",Nossebro,"Butternut Squash Soup","Food - Soups",0,3,0,jcb
+976,2023-02-07,477,NULL,Bintang,"Butternut Squash Soup","Food - Soups",34,3,102,china-unionpay
+996,2023-01-27,497,"Hyman Desantis",Aras-asan,"Butternut Squash Soup","Food - Soups",0,3,0,mastercard
+17,2022-10-11,18,"Georgianna Sculley",NULL,"Wi-Fi Enabled Smart Light Switch","Smart Home",20,25,500,switch
+37,2023-01-19,38,"Stuart Breitler",Tailing,"Wi-Fi Enabled Smart Light Switch","Smart Home",12,25,300,NULL
+57,2022-11-29,58,"Aundrea Hambrook",Tozeur,"Wi-Fi Enabled Smart Light Switch","Smart Home",1,25,25,americanexpress
+77,2022-08-16,78,"Arlina Daniau","Kingsey Falls","Wi-Fi Enabled Smart Light Switch","Smart Home",45,25,1125,jcb
+97,2022-07-16,98,"Smith Skillitt","San Antonio","Wi-Fi Enabled Smart Light Switch","Smart Home",38,25,950,bankcard
+117,2022-10-07,118,"Candida Goalby",Zrenjanin,"Wi-Fi Enabled Smart Light Switch","Smart Home",38,25,950,visa-electron
+137,2022-03-17,138,"Emerson Wood",Lubei,"Wi-Fi Enabled Smart Light Switch","Smart Home",19,25,475,switch
+157,2022-06-14,158,NULL,Richmond,"Wi-Fi Enabled Smart Light Switch","Smart Home",25,25,625,diners-club-international
+177,2022-05-18,178,"Max Wanklin",Xinchengzi,"Wi-Fi Enabled Smart Light Switch","Smart Home",22,25,550,jcb
+197,2022-12-29,198,"Svend Fealey",Anahuac,"Wi-Fi Enabled Smart Light Switch","Smart Home",34,25,850,mastercard
+217,2022-03-24,218,"Angela Murcutt",Kowo,"Wi-Fi Enabled Smart Light Switch","Smart Home",40,25,1000,americanexpress
+237,2022-04-15,238,"Curcio Bryce",Kozyatyn,"Wi-Fi Enabled Smart Light Switch","Smart Home",31,25,775,maestro
+257,2022-08-31,258,"Amil Muzzi","Ladhewāla Warāich","Wi-Fi Enabled Smart Light Switch","Smart Home",25,25,625,jcb
+277,2022-07-29,278,NULL,Góra,"Wi-Fi Enabled Smart Light Switch","Smart Home",7,25,175,mastercard
+297,2022-03-21,298,"Norby MacRinn",Dijon,"Wi-Fi Enabled Smart Light Switch","Smart Home",27,25,675,bankcard
+317,2022-11-10,318,"Ethe Midgely",Siumate,"Wi-Fi Enabled Smart Light Switch","Smart Home",2,25,50,bankcard
+337,2023-02-27,338,NULL,NULL,"Wi-Fi Enabled Smart Light Switch","Smart Home",3,25,75,bankcard
+357,2022-04-17,358,"Suzanna Birdwhistell","Wangyi Zhendian","Wi-Fi Enabled Smart Light Switch","Smart Home",17,25,425,diners-club-carte-blanche
+377,2023-03-01,378,"Nye Colwill",Armentières,"Wi-Fi Enabled Smart Light Switch","Smart Home",12,25,300,diners-club-carte-blanche
+397,2022-09-11,398,"Paige Lansdown",Lafiagi,"Wi-Fi Enabled Smart Light Switch","Smart Home",15,25,375,switch
+417,2022-09-27,418,"Finlay Ducarne",Grajaú,"Wi-Fi Enabled Smart Light Switch","Smart Home",33,25,825,jcb
+437,2023-01-07,438,"Georgeanna Cobbald",Papilawe,"Wi-Fi Enabled Smart Light Switch","Smart Home",50,25,1250,NULL
+457,2023-01-04,458,"Jeromy Dever",Junglinster,"Wi-Fi Enabled Smart Light Switch","Smart Home",25,25,625,china-unionpay
+477,2023-01-31,478,NULL,Qiaoyi,"Wi-Fi Enabled Smart Light Switch","Smart Home",13,25,325,jcb
+497,2022-05-22,498,NULL,Carleton-sur-Mer,"Wi-Fi Enabled Smart Light Switch","Smart Home",23,25,575,instapayment
+517,2022-07-27,18,"Georgianna Sculley",NULL,"Wi-Fi Enabled Smart Light Switch","Smart Home",34,25,850,instapayment
+537,NULL,38,"Stuart Breitler",Tailing,"Wi-Fi Enabled Smart Light Switch","Smart Home",37,25,925,visa-electron
+557,2022-04-26,58,"Aundrea Hambrook",Tozeur,"Wi-Fi Enabled Smart Light Switch","Smart Home",36,25,900,mastercard
+577,2022-03-18,78,"Arlina Daniau","Kingsey Falls","Wi-Fi Enabled Smart Light Switch","Smart Home",7,25,175,china-unionpay
+597,2022-10-27,98,"Smith Skillitt","San Antonio","Wi-Fi Enabled Smart Light Switch","Smart Home",19,25,475,jcb
+617,2022-05-08,118,"Candida Goalby",Zrenjanin,"Wi-Fi Enabled Smart Light Switch","Smart Home",12,25,300,jcb
+637,2022-04-17,138,"Emerson Wood",Lubei,"Wi-Fi Enabled Smart Light Switch","Smart Home",27,25,675,jcb
+657,2022-05-15,158,NULL,Richmond,"Wi-Fi Enabled Smart Light Switch","Smart Home",16,25,400,switch
+677,2022-04-01,178,"Max Wanklin",Xinchengzi,"Wi-Fi Enabled Smart Light Switch","Smart Home",40,25,1000,jcb
+697,2022-07-25,198,"Svend Fealey",Anahuac,"Wi-Fi Enabled Smart Light Switch","Smart Home",20,25,500,bankcard
+717,2022-10-10,218,"Angela Murcutt",Kowo,"Wi-Fi Enabled Smart Light Switch","Smart Home",45,25,1125,maestro
+737,2022-12-28,238,"Curcio Bryce",Kozyatyn,"Wi-Fi Enabled Smart Light Switch","Smart Home",16,25,400,americanexpress
+757,2022-10-20,258,"Amil Muzzi","Ladhewāla Warāich","Wi-Fi Enabled Smart Light Switch","Smart Home",43,25,1075,switch
+777,2022-07-17,278,NULL,Góra,"Wi-Fi Enabled Smart Light Switch","Smart Home",6,25,150,instapayment
+797,2022-07-18,298,"Norby MacRinn",Dijon,"Wi-Fi Enabled Smart Light Switch","Smart Home",29,25,725,switch
+817,2022-03-17,318,"Ethe Midgely",Siumate,"Wi-Fi Enabled Smart Light Switch","Smart Home",3,25,75,mastercard
+837,2022-06-02,338,NULL,NULL,"Wi-Fi Enabled Smart Light Switch","Smart Home",13,25,325,americanexpress
+857,2022-07-13,358,"Suzanna Birdwhistell","Wangyi Zhendian","Wi-Fi Enabled Smart Light Switch","Smart Home",20,25,500,jcb
+877,2022-10-17,378,"Nye Colwill",Armentières,"Wi-Fi Enabled Smart Light Switch","Smart Home",22,25,550,jcb
+897,2023-01-20,398,"Paige Lansdown",Lafiagi,"Wi-Fi Enabled Smart Light Switch","Smart Home",14,25,350,switch
+917,2022-04-27,418,"Finlay Ducarne",Grajaú,"Wi-Fi Enabled Smart Light Switch","Smart Home",45,25,1125,jcb
+937,2022-08-21,438,"Georgeanna Cobbald",Papilawe,"Wi-Fi Enabled Smart Light Switch","Smart Home",32,25,800,jcb
+957,2022-11-24,458,"Jeromy Dever",Junglinster,"Wi-Fi Enabled Smart Light Switch","Smart Home",42,25,1050,jcb
+977,2022-12-25,478,NULL,Qiaoyi,"Wi-Fi Enabled Smart Light Switch","Smart Home",10,25,250,jcb
+997,2023-01-23,498,NULL,Carleton-sur-Mer,"Wi-Fi Enabled Smart Light Switch","Smart Home",19,25,475,jcb
+18,2022-07-25,19,"Sally Flook",Cipinang,"Smartphone Camera Lens Kit",Photography,5,20,100,americanexpress
+38,2022-05-28,39,"Tim Rowledge",Matmata,"Smartphone Camera Lens Kit",Photography,25,20,500,laser
+58,2023-02-24,59,"Dolly Frew",Stockholm,"Smartphone Camera Lens Kit",Photography,11,20,220,diners-club-enroute
+78,2022-03-16,79,"Yorgo Bick",Khawrah,"Smartphone Camera Lens Kit",Photography,25,20,500,jcb
+98,2022-12-27,99,"Vicki Darree",Itaocara,"Smartphone Camera Lens Kit",Photography,7,20,140,china-unionpay
+118,2023-01-19,119,"Faber Ribou",Tolotangga,"Smartphone Camera Lens Kit",Photography,27,20,540,NULL
+138,NULL,139,"Pacorro Saberton",Oliveirinha,"Smartphone Camera Lens Kit",Photography,21,20,420,americanexpress
+158,2022-05-25,159,"Bernelle Arrol",Mişrātah,"Smartphone Camera Lens Kit",Photography,14,20,280,jcb
+178,2022-04-05,179,"Cesar Aleksic",Gongxi,"Smartphone Camera Lens Kit",Photography,22,20,440,switch
+198,2022-05-20,199,"Ashla Brunet",Tassin-la-Demi-Lune,"Smartphone Camera Lens Kit",Photography,2,20,40,maestro
+218,2022-04-23,219,"Newton Jowsey",Minggang,"Smartphone Camera Lens Kit",Photography,32,20,640,NULL
+238,2022-08-11,239,"Terry Videneev",Cové,"Smartphone Camera Lens Kit",Photography,3,20,60,NULL
+258,2023-03-12,259,"Alvira Addyman",Sukhirin,"Smartphone Camera Lens Kit",Photography,28,20,560,china-unionpay
+278,2022-10-03,279,"Vivia Eversley",Guariba,"Smartphone Camera Lens Kit",Photography,41,20,820,americanexpress
+298,2022-05-01,299,"Natalya Richin",Bakung,"Smartphone Camera Lens Kit",Photography,38,20,760,visa
+318,2022-09-27,319,"Tanney Thyer",Khorugh,"Smartphone Camera Lens Kit",Photography,25,20,500,NULL
+338,2022-03-25,339,"Norma Oman","Staryy Oskol","Smartphone Camera Lens Kit",Photography,7,20,140,jcb
+358,NULL,359,"Druci Titt",Kasukabe,"Smartphone Camera Lens Kit",Photography,49,20,980,jcb
+378,2022-11-19,379,"Marylee Gorry",Glushkovo,"Smartphone Camera Lens Kit",Photography,15,20,300,solo
+398,2022-10-19,399,"Maryrose Tuffield",Tanjung,"Smartphone Camera Lens Kit",Photography,38,20,760,jcb
+418,2023-02-11,419,"Kordula Troppmann",Charyshskoye,"Smartphone Camera Lens Kit",Photography,2,20,40,jcb
+438,2023-03-01,439,"Raynard Chucks",Muaralembu,"Smartphone Camera Lens Kit",Photography,44,20,880,switch
+458,2022-12-25,459,"Ediva Halleybone",Ifanadiana,"Smartphone Camera Lens Kit",Photography,23,20,460,visa-electron
+478,2022-06-21,479,"Amalita Hackinge",NULL,"Smartphone Camera Lens Kit",Photography,4,20,80,diners-club-international
+498,2022-12-05,499,"Perrine Abrashkin","San Juan","Smartphone Camera Lens Kit",Photography,10,20,200,switch
+518,2023-02-24,19,"Sally Flook",Cipinang,"Smartphone Camera Lens Kit",Photography,15,20,300,visa
+538,2022-03-29,39,"Tim Rowledge",Matmata,"Smartphone Camera Lens Kit",Photography,49,20,980,jcb
+558,NULL,59,"Dolly Frew",Stockholm,"Smartphone Camera Lens Kit",Photography,8,20,160,jcb
+578,2022-12-13,79,"Yorgo Bick",Khawrah,"Smartphone Camera Lens Kit",Photography,0,20,0,jcb
+598,2022-10-31,99,"Vicki Darree",Itaocara,"Smartphone Camera Lens Kit",Photography,44,20,880,jcb
+618,2022-07-21,119,"Faber Ribou",Tolotangga,"Smartphone Camera Lens Kit",Photography,19,20,380,jcb
+638,2023-01-20,139,"Pacorro Saberton",Oliveirinha,"Smartphone Camera Lens Kit",Photography,1,20,20,switch
+658,2022-08-20,159,"Bernelle Arrol",Mişrātah,"Smartphone Camera Lens Kit",Photography,25,20,500,jcb
+678,2022-07-09,179,"Cesar Aleksic",Gongxi,"Smartphone Camera Lens Kit",Photography,11,20,220,jcb
+698,2022-04-13,199,"Ashla Brunet",Tassin-la-Demi-Lune,"Smartphone Camera Lens Kit",Photography,37,20,740,switch
+718,2022-08-30,219,"Newton Jowsey",Minggang,"Smartphone Camera Lens Kit",Photography,0,20,0,jcb
+738,2023-02-15,239,"Terry Videneev",Cové,"Smartphone Camera Lens Kit",Photography,1,20,20,maestro
+758,NULL,259,"Alvira Addyman",Sukhirin,"Smartphone Camera Lens Kit",Photography,29,20,580,jcb
+778,2022-12-23,279,"Vivia Eversley",Guariba,"Smartphone Camera Lens Kit",Photography,30,20,600,diners-club-enroute
+798,2022-03-28,299,"Natalya Richin",Bakung,"Smartphone Camera Lens Kit",Photography,27,20,540,diners-club-carte-blanche
+818,2022-07-25,319,"Tanney Thyer",Khorugh,"Smartphone Camera Lens Kit",Photography,16,20,320,jcb
+838,2022-05-10,339,"Norma Oman","Staryy Oskol","Smartphone Camera Lens Kit",Photography,45,20,900,maestro
+858,2022-08-25,359,"Druci Titt",Kasukabe,"Smartphone Camera Lens Kit",Photography,49,20,980,visa-electron
+878,2022-07-17,379,"Marylee Gorry",Glushkovo,"Smartphone Camera Lens Kit",Photography,31,20,620,bankcard
+898,2022-07-02,399,"Maryrose Tuffield",Tanjung,"Smartphone Camera Lens Kit",Photography,30,20,600,solo
+918,2022-10-20,419,"Kordula Troppmann",Charyshskoye,"Smartphone Camera Lens Kit",Photography,20,20,400,visa-electron
+938,2023-01-29,439,"Raynard Chucks",Muaralembu,"Smartphone Camera Lens Kit",Photography,49,20,980,jcb
+958,2022-05-16,459,"Ediva Halleybone",Ifanadiana,"Smartphone Camera Lens Kit",Photography,32,20,640,visa-electron
+978,NULL,479,"Amalita Hackinge",NULL,"Smartphone Camera Lens Kit",Photography,16,20,320,china-unionpay
+998,2022-05-16,499,"Perrine Abrashkin","San Juan","Smartphone Camera Lens Kit",Photography,9,20,180,jcb
+19,2022-07-26,20,"Erv Bayston",Kendal,"Noise Reduction Headphones",Audio,5,40,200,NULL
+39,2022-04-07,40,"Roseann Enoch",Hejiaping,"Noise Reduction Headphones",Audio,21,40,840,diners-club-carte-blanche
+59,2022-07-30,60,"Hillel Cromb",Igarapé,"Noise Reduction Headphones",Audio,16,40,640,diners-club-us-ca
+79,2022-12-16,80,"Morley Nand",Areado,"Noise Reduction Headphones",Audio,4,40,160,jcb
+99,2022-07-19,100,"Gisella Lynagh",Saarbrücken,"Noise Reduction Headphones",Audio,44,40,1760,NULL
+119,2022-06-15,120,"Matthiew Alywin",Dambarta,"Noise Reduction Headphones",Audio,43,40,1720,mastercard
+139,2022-06-23,140,"Cori Hews",Pepayan,"Noise Reduction Headphones",Audio,39,40,1560,switch
+159,2022-11-07,160,"Alta Semken",Arras,"Noise Reduction Headphones",Audio,30,40,1200,china-unionpay
+179,2022-05-11,180,"Cord Djorevic",Cahuac,"Noise Reduction Headphones",Audio,35,40,1400,jcb
+199,2022-04-30,200,"Ingeborg Woolaston",Yambio,"Noise Reduction Headphones",Audio,50,40,2000,solo
+219,2022-11-19,220,"Elyn Forrington",Raša,"Noise Reduction Headphones",Audio,47,40,1880,jcb
+239,2023-01-06,240,NULL,Chongru,"Noise Reduction Headphones",Audio,50,40,2000,jcb
+259,2022-04-09,260,"Leslie Parnaby",Hor,"Noise Reduction Headphones",Audio,39,40,1560,laser
+279,2022-03-30,280,"Saunders Wibberley",Xipu,"Noise Reduction Headphones",Audio,9,40,360,jcb
+299,2022-03-18,300,"Vonni Brownsey",Cielmice,"Noise Reduction Headphones",Audio,2,40,80,diners-club-carte-blanche
+319,2022-04-04,320,"Vonny Mattinson",Jovellanos,"Noise Reduction Headphones",Audio,12,40,480,NULL
+339,2022-06-18,340,"Dyan Carlett",Budënnovsk,"Noise Reduction Headphones",Audio,14,40,560,jcb
+359,2023-02-27,360,NULL,Xitianwei,"Noise Reduction Headphones",Audio,14,40,560,instapayment
+379,2022-12-23,380,"Renae Herion",Argungu,"Noise Reduction Headphones",Audio,26,40,1040,maestro
+399,NULL,400,"Ethelind Farnorth","Taphan Hin","Noise Reduction Headphones",Audio,25,40,1000,NULL
+419,2022-09-16,420,"Beverley Hakey",Gereneng,"Noise Reduction Headphones",Audio,32,40,1280,mastercard
+439,2022-04-27,440,"Sax Pays",Bronnitsy,"Noise Reduction Headphones",Audio,23,40,920,diners-club-us-ca
+459,2022-11-30,460,"Nessi Di Gregorio",Douane,"Noise Reduction Headphones",Audio,28,40,1120,visa-electron
+479,2022-05-27,480,"Farleigh Lilywhite","Glugur Tengah","Noise Reduction Headphones",Audio,16,40,640,jcb
+499,2022-05-27,500,NULL,Nekrasovka,"Noise Reduction Headphones",Audio,42,40,1680,diners-club-enroute
+519,2022-05-13,20,"Erv Bayston",Kendal,"Noise Reduction Headphones",Audio,9,40,360,china-unionpay
+539,2022-08-29,40,"Roseann Enoch",Hejiaping,"Noise Reduction Headphones",Audio,19,40,760,china-unionpay
+559,2022-12-15,60,"Hillel Cromb",Igarapé,"Noise Reduction Headphones",Audio,7,40,280,NULL
+579,2022-05-24,80,"Morley Nand",Areado,"Noise Reduction Headphones",Audio,0,40,0,diners-club-carte-blanche
+599,2022-11-08,100,"Gisella Lynagh",Saarbrücken,"Noise Reduction Headphones",Audio,15,40,600,jcb
+619,2022-07-10,120,"Matthiew Alywin",Dambarta,"Noise Reduction Headphones",Audio,17,40,680,diners-club-enroute
+639,2022-07-15,140,"Cori Hews",Pepayan,"Noise Reduction Headphones",Audio,39,40,1560,jcb
+659,2022-04-06,160,"Alta Semken",Arras,"Noise Reduction Headphones",Audio,13,40,520,visa-electron
+679,2022-07-17,180,"Cord Djorevic",Cahuac,"Noise Reduction Headphones",Audio,20,40,800,jcb
+699,2022-05-05,200,"Ingeborg Woolaston",Yambio,"Noise Reduction Headphones",Audio,27,40,1080,jcb
+719,2022-09-03,220,"Elyn Forrington",Raša,"Noise Reduction Headphones",Audio,30,40,1200,americanexpress
+739,2022-08-27,240,NULL,Chongru,"Noise Reduction Headphones",Audio,7,40,280,china-unionpay
+759,2022-11-02,260,"Leslie Parnaby",Hor,"Noise Reduction Headphones",Audio,15,40,600,instapayment
+779,2023-01-02,280,"Saunders Wibberley",Xipu,"Noise Reduction Headphones",Audio,50,40,2000,instapayment
+799,2023-03-02,300,"Vonni Brownsey",Cielmice,"Noise Reduction Headphones",Audio,37,40,1480,jcb
+819,2023-01-29,320,"Vonny Mattinson",Jovellanos,"Noise Reduction Headphones",Audio,27,40,1080,jcb
+839,2022-11-25,340,"Dyan Carlett",Budënnovsk,"Noise Reduction Headphones",Audio,23,40,920,americanexpress
+859,2022-08-25,360,NULL,Xitianwei,"Noise Reduction Headphones",Audio,15,40,600,NULL
+879,2023-02-19,380,"Renae Herion",Argungu,"Noise Reduction Headphones",Audio,24,40,960,jcb
+899,2022-05-11,400,"Ethelind Farnorth","Taphan Hin","Noise Reduction Headphones",Audio,7,40,280,laser
+919,2022-12-06,420,"Beverley Hakey",Gereneng,"Noise Reduction Headphones",Audio,7,40,280,jcb
+939,2022-10-01,440,"Sax Pays",Bronnitsy,"Noise Reduction Headphones",Audio,23,40,920,NULL
+959,2023-02-14,460,"Nessi Di Gregorio",Douane,"Noise Reduction Headphones",Audio,11,40,440,jcb
+979,2023-01-05,480,"Farleigh Lilywhite","Glugur Tengah","Noise Reduction Headphones",Audio,11,40,440,diners-club-enroute
+999,2023-02-27,500,NULL,Nekrasovka,"Noise Reduction Headphones",Audio,40,40,1600,visa
